@@ -1,0 +1,47 @@
+{
+  "name": "bfftournament",
+  "challonge": "http://challonge.com/bfftournament",
+  "ruleset": "",
+  "matchups": [
+    {
+      "player 1": "Sillypears",
+      "player 2": "tODDlife",
+      "winner": "2"
+    },
+    {
+      "player 1": "Sir_Munch",
+      "player 2": "Phantasm13",
+      "winner": "1"
+    },
+    {
+      "player 1": "Inschato",
+      "player 2": "Asmius",
+      "winner": "1"
+    },
+    {
+      "player 1": "Zalkyria",
+      "player 2": "LucasLoved",
+      "winner": "2"
+    },
+    {
+      "player 1": "tODDlife",
+      "player 2": "Sir_Munch",
+      "winner": "2"
+    },
+    {
+      "player 1": "Inschato",
+      "player 2": "LucasLoved",
+      "winner": "1"
+    },
+    {
+      "player 1": "Sir_Munch",
+      "player 2": "Inschato",
+      "winner": "2"
+    },
+    {
+      "player 1": "tODDlife",
+      "player 2": "LucasLoved",
+      "winner": "1"
+    }
+  ]
+}

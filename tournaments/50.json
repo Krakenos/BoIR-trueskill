@@ -1,0 +1,42 @@
+{
+  "name": "BattleOfKings3",
+  "challonge": "http://challonge.com/BattleOfKings3",
+  "ruleset": "seeded",
+  "matchups": [
+    {
+      "player 1": "Dea1h",
+      "player 2": "antizoubilamaka",
+      "winner": "2"
+    },
+    {
+      "player 1": "Cyber_1",
+      "player 2": "GiraffeFizzoid",
+      "winner": "1"
+    },
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "Cyber_1",
+      "winner": "1"
+    },
+    {
+      "player 1": "Dea1h",
+      "player 2": "GiraffeFizzoid",
+      "winner": "1"
+    },
+    {
+      "player 1": "Cyber_1",
+      "player 2": "Dea1h",
+      "winner": "2"
+    },
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "Dea1h",
+      "winner": "2"
+    },
+    {
+      "player 1": "Dea1h",
+      "player 2": "antizoubilamaka",
+      "winner": "1"
+    }
+  ]
+}

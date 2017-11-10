@@ -1,0 +1,317 @@
+{
+  "name": "The Balls of Steel 4",
+  "challonge": "http://challonge.com/bos4",
+  "ruleset": "unseeded",
+  "matchups": [
+    {
+      "player 1": "Atozmos",
+      "player 2": "Ognos",
+      "winner": "2"
+    },
+    {
+      "player 1": "Duneaught",
+      "player 2": "iNtense003",
+      "winner": "2"
+    },
+    {
+      "player 1": "Carnosaur",
+      "player 2": "Diabetech",
+      "winner": "2"
+    },
+    {
+      "player 1": "RatRacing",
+      "player 2": "JimDrizzle",
+      "winner": "1"
+    },
+    {
+      "player 1": "BeeGee0",
+      "player 2": "ImWayToPunny",
+      "winner": "2"
+    },
+    {
+      "player 1": "DarkDragonx6",
+      "player 2": "EladDifficult",
+      "winner": "1"
+    },
+    {
+      "player 1": "itzasickscot",
+      "player 2": "JerseyRebox",
+      "winner": "2"
+    },
+    {
+      "player 1": "OldVulpine",
+      "player 2": "YamaYamaDingDong",
+      "winner": "2"
+    },
+    {
+      "player 1": "ExoSc2",
+      "player 2": "Slackaholicus",
+      "winner": "2"
+    },
+    {
+      "player 1": "bmz_loop",
+      "player 2": "Hyphen_ated",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "Black_yuu",
+      "winner": "2"
+    },
+    {
+      "player 1": "iKasperr",
+      "player 2": "RexmoreOP",
+      "winner": "1"
+    },
+    {
+      "player 1": "MikeyLikesLT",
+      "player 2": "ProblemsIRL",
+      "winner": "2"
+    },
+    {
+      "player 1": "FiveMoreMinutes",
+      "player 2": "910Dan",
+      "winner": "2"
+    },
+    {
+      "player 1": "ShigyDigy",
+      "player 2": "Admiral_Bahroo",
+      "winner": "2"
+    },
+    {
+      "player 1": "MythikInk",
+      "player 2": "Staekk",
+      "winner": "2"
+    },
+    {
+      "player 1": "Ognos",
+      "player 2": "iNtense003",
+      "winner": "1"
+    },
+    {
+      "player 1": "Diabetech",
+      "player 2": "RatRacing",
+      "winner": "1"
+    },
+    {
+      "player 1": "ImWayToPunny",
+      "player 2": "DarkDragonx6",
+      "winner": "1"
+    },
+    {
+      "player 1": "JerseyRebox",
+      "player 2": "YamaYamaDingDong",
+      "winner": "1"
+    },
+    {
+      "player 1": "Slackaholicus",
+      "player 2": "Hyphen_ated",
+      "winner": "2"
+    },
+    {
+      "player 1": "Black_yuu",
+      "player 2": "iKasperr",
+      "winner": "2"
+    },
+    {
+      "player 1": "ProblemsIRL",
+      "player 2": "910Dan",
+      "winner": "1"
+    },
+    {
+      "player 1": "Admiral_Bahroo",
+      "player 2": "Staekk",
+      "winner": "1"
+    },
+    {
+      "player 1": "Ognos",
+      "player 2": "Diabetech",
+      "winner": "2"
+    },
+    {
+      "player 1": "ImWayToPunny",
+      "player 2": "JerseyRebox",
+      "winner": "1"
+    },
+    {
+      "player 1": "Hyphen_ated",
+      "player 2": "iKasperr",
+      "winner": "1"
+    },
+    {
+      "player 1": "ProblemsIRL",
+      "player 2": "Admiral_Bahroo",
+      "winner": "1"
+    },
+    {
+      "player 1": "Diabetech",
+      "player 2": "ImWayToPunny",
+      "winner": "2"
+    },
+    {
+      "player 1": "Hyphen_ated",
+      "player 2": "ProblemsIRL",
+      "winner": "2"
+    },
+    {
+      "player 1": "ImWayToPunny",
+      "player 2": "ProblemsIRL",
+      "winner": "1"
+    },
+    {
+      "player 1": "Atozmos",
+      "player 2": "Duneaught",
+      "winner": "1"
+    },
+    {
+      "player 1": "Carnosaur",
+      "player 2": "JimDrizzle",
+      "winner": "2"
+    },
+    {
+      "player 1": "BeeGee0",
+      "player 2": "EladDifficult",
+      "winner": "1"
+    },
+    {
+      "player 1": "itzasickscot",
+      "player 2": "OldVulpine",
+      "winner": "2"
+    },
+    {
+      "player 1": "ExoSc2",
+      "player 2": "bmz_loop",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "RexmoreOP",
+      "winner": "1"
+    },
+    {
+      "player 1": "MikeyLikesLT",
+      "player 2": "FiveMoreMinutes",
+      "winner": "2"
+    },
+    {
+      "player 1": "ShigyDigy",
+      "player 2": "MythikInk",
+      "winner": "2"
+    },
+    {
+      "player 1": "Staekk",
+      "player 2": "Atozmos",
+      "winner": "2"
+    },
+    {
+      "player 1": "910Dan",
+      "player 2": "JimDrizzle",
+      "winner": "1"
+    },
+    {
+      "player 1": "Black_yuu",
+      "player 2": "BeeGee0",
+      "winner": "1"
+    },
+    {
+      "player 1": "Slackaholicus",
+      "player 2": "OldVulpine",
+      "winner": "2"
+    },
+    {
+      "player 1": "YamaYamaDingDong",
+      "player 2": "bmz_loop",
+      "winner": "1"
+    },
+    {
+      "player 1": "DarkDragonx6",
+      "player 2": "Zamiell",
+      "winner": "2"
+    },
+    {
+      "player 1": "RatRacing",
+      "player 2": "FiveMoreMinutes",
+      "winner": "2"
+    },
+    {
+      "player 1": "iNtense003",
+      "player 2": "MythikInk",
+      "winner": "2"
+    },
+    {
+      "player 1": "Atozmos",
+      "player 2": "910Dan",
+      "winner": "1"
+    },
+    {
+      "player 1": "Black_yuu",
+      "player 2": "OldVulpine",
+      "winner": "2"
+    },
+    {
+      "player 1": "YamaYamaDingDong",
+      "player 2": "Zamiell",
+      "winner": "2"
+    },
+    {
+      "player 1": "FiveMoreMinutes",
+      "player 2": "MythikInk",
+      "winner": "1"
+    },
+    {
+      "player 1": "JerseyRebox",
+      "player 2": "Atozmos",
+      "winner": "2"
+    },
+    {
+      "player 1": "Ognos",
+      "player 2": "OldVulpine",
+      "winner": "2"
+    },
+    {
+      "player 1": "Admiral_Bahroo",
+      "player 2": "Zamiell",
+      "winner": "2"
+    },
+    {
+      "player 1": "iKasperr",
+      "player 2": "FiveMoreMinutes",
+      "winner": "1"
+    },
+    {
+      "player 1": "Atozmos",
+      "player 2": "OldVulpine",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "iKasperr",
+      "winner": "2"
+    },
+    {
+      "player 1": "Hyphen_ated",
+      "player 2": "OldVulpine",
+      "winner": "1"
+    },
+    {
+      "player 1": "Diabetech",
+      "player 2": "iKasperr",
+      "winner": "2"
+    },
+    {
+      "player 1": "Hyphen_ated",
+      "player 2": "iKasperr",
+      "winner": "1"
+    },
+    {
+      "player 1": "ProblemsIRL",
+      "player 2": "Hyphen_ated",
+      "winner": "1"
+    },
+    {
+      "player 1": "ImWayToPunny",
+      "player 2": "ProblemsIRL",
+      "winner": "1"
+    }
+  ]
+}

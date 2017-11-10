@@ -1,0 +1,67 @@
+{
+  "name": "spermparty",
+  "challonge": "http://challonge.com/spermparty",
+  "ruleset": "seeded",
+  "matchups": [
+    {
+      "player 1": "Nicoluwu",
+      "player 2": "ThisGuyIsBarry",
+      "winner": "2"
+    },
+    {
+      "player 1": "Thalen22",
+      "player 2": "Cmondinger",
+      "winner": "2"
+    },
+    {
+      "player 1": "DKlaww",
+      "player 2": "Sillypears",
+      "winner": "1"
+    },
+    {
+      "player 1": "Rydyell",
+      "player 2": "CrafterLynx",
+      "winner": "2"
+    },
+    {
+      "player 1": "SlashSP",
+      "player 2": "Dadalo1",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "ThisGuyIsBarry",
+      "winner": "1"
+    },
+    {
+      "player 1": "Cmondinger",
+      "player 2": "DKlaww",
+      "winner": "2"
+    },
+    {
+      "player 1": "Antizoubilamaka",
+      "player 2": "CrafterLynx",
+      "winner": "1"
+    },
+    {
+      "player 1": "HauntedQuest",
+      "player 2": "Dadalo1",
+      "winner": "1"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "DKlaww",
+      "winner": "1"
+    },
+    {
+      "player 1": "Antizoubilamaka",
+      "player 2": "HauntedQuest",
+      "winner": "1"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "Antizoubilamaka",
+      "winner": "2"
+    }
+  ]
+}

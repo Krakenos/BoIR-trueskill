@@ -1,0 +1,82 @@
+{
+  "name": "Pandora's Box",
+  "challonge": "http://challonge.com/tournoipandorasbox",
+  "ruleset": "",
+  "matchups": [
+    {
+      "player 1": "La_Liburne_Automatique",
+      "player 2": "grossebrebi",
+      "winner": "1"
+    },
+    {
+      "player 1": "personne",
+      "player 2": "MrPopoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "Ilianasable",
+      "player 2": "calimero38750",
+      "winner": "2"
+    },
+    {
+      "player 1": "Tifaerith",
+      "player 2": "zefynra",
+      "winner": "2"
+    },
+    {
+      "player 1": "Hikarichan73",
+      "player 2": "Chfou",
+      "winner": "2"
+    },
+    {
+      "player 1": "Curedents",
+      "player 2": "Sakk_",
+      "winner": "1"
+    },
+    {
+      "player 1": "Diabalzane",
+      "player 2": "EnorielLelfe",
+      "winner": "1"
+    },
+    {
+      "player 1": "SpiritOwners",
+      "player 2": "MrPopoche",
+      "winner": "1"
+    },
+    {
+      "player 1": "La_Liburne_Automatique",
+      "player 2": "MrPopoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "calimero38750",
+      "player 2": "zefynra",
+      "winner": "1"
+    },
+    {
+      "player 1": "Chfou",
+      "player 2": "Curedents",
+      "winner": "1"
+    },
+    {
+      "player 1": "Diabalzane",
+      "player 2": "SpiritOwners",
+      "winner": "1"
+    },
+    {
+      "player 1": "MrPopoche",
+      "player 2": "calimero38750",
+      "winner": "1"
+    },
+    {
+      "player 1": "Chfou",
+      "player 2": "Diabalzane",
+      "winner": "1"
+    },
+    {
+      "player 1": "MrPopoche",
+      "player 2": "Chfou",
+      "winner": "1"
+    }
+  ]
+}

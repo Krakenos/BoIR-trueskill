@@ -1,0 +1,82 @@
+{
+  "name": "bosweekly8",
+  "challonge": "http://challonge.com/bosweekly8",
+  "ruleset": "",
+  "matchups": [
+    {
+      "player 1": "Peppicx",
+      "player 2": "Eliznik",
+      "winner": "2"
+    },
+    {
+      "player 1": "NebularView",
+      "player 2": "HauntedQuest",
+      "winner": "2"
+    },
+    {
+      "player 1": "Sillypears",
+      "player 2": "Oh_My_Goth_",
+      "winner": "2"
+    },
+    {
+      "player 1": "FiveMoreMinutes",
+      "player 2": "Thalen22",
+      "winner": "1"
+    },
+    {
+      "player 1": "Nurelic",
+      "player 2": "Scyther159",
+      "winner": "1"
+    },
+    {
+      "player 1": "Xelnas",
+      "player 2": "BMZ_Loop",
+      "winner": "2"
+    },
+    {
+      "player 1": "ImWayToPunny",
+      "player 2": "TheFullCrumb",
+      "winner": "2"
+    },
+    {
+      "player 1": "InvaderTimStreams",
+      "player 2": "GastonDupris",
+      "winner": "2"
+    },
+    {
+      "player 1": "Eliznik",
+      "player 2": "HauntedQuest",
+      "winner": "2"
+    },
+    {
+      "player 1": "Oh_My_Goth_",
+      "player 2": "FiveMoreMinutes",
+      "winner": "1"
+    },
+    {
+      "player 1": "Nurelic",
+      "player 2": "BMZ_Loop",
+      "winner": "2"
+    },
+    {
+      "player 1": "TheFullCrumb",
+      "player 2": "GastonDupris",
+      "winner": "2"
+    },
+    {
+      "player 1": "HauntedQuest",
+      "player 2": "Oh_My_Goth_",
+      "winner": "2"
+    },
+    {
+      "player 1": "BMZ_Loop",
+      "player 2": "GastonDupris",
+      "winner": "1"
+    },
+    {
+      "player 1": "Oh_My_Goth_",
+      "player 2": "BMZ_Loop",
+      "winner": "2"
+    }
+  ]
+}

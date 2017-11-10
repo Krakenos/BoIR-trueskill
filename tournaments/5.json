@@ -1,0 +1,82 @@
+{
+  "name": "bosweekly4",
+  "challonge": "http://challonge.com/bosweekly4",
+  "ruleset": "",
+  "matchups": [
+    {
+      "player 1": "ADirtyOldCow",
+      "player 2": "TheFullCrumb",
+      "winner": "2"
+    },
+    {
+      "player 1": "Erbear_",
+      "player 2": "MikeyLikesIt",
+      "winner": "2"
+    },
+    {
+      "player 1": "Merlin_Sensei",
+      "player 2": "Ou_J",
+      "winner": "2"
+    },
+    {
+      "player 1": "FiveMoreMinutes",
+      "player 2": "NooWoo",
+      "winner": "2"
+    },
+    {
+      "player 1": "Minimelt35",
+      "player 2": "ConnorB_",
+      "winner": "2"
+    },
+    {
+      "player 1": "Eliznik",
+      "player 2": "Proxymate",
+      "winner": "2"
+    },
+    {
+      "player 1": "FSUYevon",
+      "player 2": "YamaYamaDingDong",
+      "winner": "2"
+    },
+    {
+      "player 1": "KrauugsmashTV",
+      "player 2": "Thalen22",
+      "winner": "2"
+    },
+    {
+      "player 1": "TheFullCrumb",
+      "player 2": "MikeyLikesIt",
+      "winner": "2"
+    },
+    {
+      "player 1": "Ou_J",
+      "player 2": "NooWoo",
+      "winner": "1"
+    },
+    {
+      "player 1": "ConnorB_",
+      "player 2": "Proxymate",
+      "winner": "1"
+    },
+    {
+      "player 1": "YamaYamaDingDong",
+      "player 2": "Thalen22",
+      "winner": "1"
+    },
+    {
+      "player 1": "MikeyLikesIt",
+      "player 2": "Ou_J",
+      "winner": "1"
+    },
+    {
+      "player 1": "ConnorB_",
+      "player 2": "YamaYamaDingDong",
+      "winner": "1"
+    },
+    {
+      "player 1": "MikeyLikesIt",
+      "player 2": "ConnorB_",
+      "winner": "1"
+    }
+  ]
+}

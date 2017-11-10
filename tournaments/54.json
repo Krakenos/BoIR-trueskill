@@ -1,0 +1,187 @@
+{
+  "name": "Isaac World Cup Qualifiers",
+  "challonge": "https://docs.google.com/spreadsheets/d/1SJ9u-sYls4n2QZT74SuKiUXy-YYecajibSRWotDetMY",
+  "ruleset": "unseeded",
+  "matchups": [
+    {
+      "player 1": "Zamiell",
+      "player 2": "Demolitionzz62",
+      "winner": "1"
+    },
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "910dan",
+      "winner": "1"
+    },
+    {
+      "player 1": "SlashSP",
+      "player 2": "Sp1kess",
+      "winner": "1"
+    },     
+	{
+      "player 1": "TheMoonSage",
+      "player 2": "Blumpkin_Idaho",
+      "winner": "2"
+    },
+    {
+      "player 1": "Thalen22",
+      "player 2": "Noowoo",
+      "winner": "1"
+    },
+    {
+      "player 1": "StoneAgeMarcus",
+      "player 2": "Ligthning2211",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "910dan",
+      "winner": "2"
+    },
+	{
+      "player 1": "antizoubilamaka",
+      "player 2": "StoneAgeMarcus",
+      "winner": "1"
+    },
+	{
+      "player 1": "SlashSP",
+      "player 2": "Demolitionzz62",
+      "winner": "1"
+    },
+	{
+      "player 1": "TheMoonSage",
+      "player 2": "Thalen22",
+      "winner": "2"
+    },
+	{
+      "player 1": "Blumpkin_Idaho",
+      "player 2": "Noowoo",
+      "winner": "1"
+    },
+	{
+      "player 1": "Ligthning2211",
+      "player 2": "Sp1kess",
+      "winner": "1"
+    },
+	{
+      "player 1": "Zamiell",
+      "player 2": "antizoubilamaka",
+      "winner": "1"
+    },
+	{
+      "player 1": "SlashSP",
+      "player 2": "Ligthning2211",
+      "winner": "1"
+    },
+	{
+      "player 1": "Demolitionzz62",
+      "player 2": "Sp1kess",
+      "winner": "2"
+    },
+	{
+      "player 1": "TheMoonSage",
+      "player 2": "StoneAgeMarcus",
+      "winner": "2"
+    },
+	{
+      "player 1": "Thalen22",
+      "player 2": "Blumpkin_Idaho",
+      "winner": "2"
+    },
+	{
+      "player 1": "910dan",
+      "player 2": "Noowoo",
+      "winner": "1"
+    },
+	{
+      "player 1": "birdie0",
+      "player 2": "HauntedQuest",
+      "winner": "2"
+    },
+	{
+      "player 1": "ceehe",
+      "player 2": "thereisnofuture",
+      "winner": "1"
+    },
+	{
+      "player 1": "Sakk_",
+      "player 2": "Shigan_",
+      "winner": "2"
+    },
+	{
+      "player 1": "Flaw456",
+      "player 2": "CrafterLynx",
+      "winner": "1"
+    },
+	{
+      "player 1": "PassionDrama",
+      "player 2": "stoogebag",
+      "winner": "1"
+    },
+	{
+      "player 1": "Dea1h",
+      "player 2": "ReidMercury__",
+      "winner": "2"
+    },
+	{
+      "player 1": "birdie0",
+      "player 2": "ReidMercury__",
+      "winner": "2"
+    },
+	{
+      "player 1": "ceehe",
+      "player 2": "Dea1h",
+      "winner": "1"
+    },
+	{
+      "player 1": "Sakk_",
+      "player 2": "HauntedQuest",
+      "winner": "2"
+    },
+	{
+      "player 1": "CrafterLynx",
+      "player 2": "stoogebag",
+      "winner": "1"
+    },
+	{
+      "player 1": "Shigan_",
+      "player 2": "Flaw456",
+      "winner": "1"
+    },
+	{
+      "player 1": "PassionDrama",
+      "player 2": "thereisnofuture",
+      "winner": "1"
+    },
+	{
+      "player 1": "birdie0",
+      "player 2": "thereisnofuture",
+      "winner": "2"
+    },
+	{
+      "player 1": "ceehe",
+      "player 2": "stoogebag",
+      "winner": "1"
+    },
+	{
+      "player 1": "Sakk_",
+      "player 2": "Dea1h",
+      "winner": "2"
+    },
+	{
+      "player 1": "CrafterLynx",
+      "player 2": "Shigan_",
+      "winner": "1"
+    },
+	{
+      "player 1": "Flaw456",
+      "player 2": "HauntedQuest",
+      "winner": "1"
+    },
+	{
+      "player 1": "PassionDrama",
+      "player 2": "ReidMercury__",
+      "winner": "2"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "name": "Bite",
+  "challonge": "http://challonge.com/ud6vduat",
+  "ruleset": "",
+  "matchups": [
+    {
+      "player 1": "Curedents",
+      "player 2": "Leo_ze_tron",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zazima",
+      "player 2": "Massiste2",
+      "winner": "2"
+    },
+    {
+      "player 1": "Khushas",
+      "player 2": "Venom",
+      "winner": "2"
+    },
+    {
+      "player 1": "AeroKanzaki",
+      "player 2": "Neg_Eggs",
+      "winner": "2"
+    },
+    {
+      "player 1": "SergeBenamou",
+      "player 2": "Nariom",
+      "winner": "2"
+    },
+    {
+      "player 1": "NeNeSSquick",
+      "player 2": "MrPopoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "HyperJaja",
+      "player 2": "Xemorej",
+      "winner": "1"
+    },
+    {
+      "player 1": "BodyBrest",
+      "player 2": "Majingrams",
+      "winner": "1"
+    },
+    {
+      "player 1": "Molfried",
+      "player 2": "Tanook_Leduc",
+      "winner": "1"
+    },
+    {
+      "player 1": "Vin25cent",
+      "player 2": "Chfou",
+      "winner": "2"
+    },
+    {
+      "player 1": "CasseBrique",
+      "player 2": "Thedarkraziel",
+      "winner": "1"
+    },
+    {
+      "player 1": "Noctyan",
+      "player 2": "Hikarichan73",
+      "winner": "1"
+    },
+    {
+      "player 1": "IceChaosDragoon",
+      "player 2": "Greed__",
+      "winner": "2"
+    },
+    {
+      "player 1": "Kanjo",
+      "player 2": "Cayoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "Calimero38750",
+      "player 2": "Kokuho",
+      "winner": "2"
+    },
+    {
+      "player 1": "Smushis",
+      "player 2": "MrTeina",
+      "winner": "2"
+    },
+    {
+      "player 1": "Leo_ze_tron",
+      "player 2": "Massiste2",
+      "winner": "1"
+    },
+    {
+      "player 1": "Venom",
+      "player 2": "Neg_Eggs",
+      "winner": "2"
+    },
+    {
+      "player 1": "Nariom",
+      "player 2": "MrPopoche",
+      "winner": "1"
+    },
+    {
+      "player 1": "HyperJaja",
+      "player 2": "BodyBrest",
+      "winner": "1"
+    },
+    {
+      "player 1": "Molfried",
+      "player 2": "Chfou",
+      "winner": "1"
+    },
+    {
+      "player 1": "CasseBrique",
+      "player 2": "Noctyan",
+      "winner": "1"
+    },
+    {
+      "player 1": "Greed__",
+      "player 2": "Cayoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "Kokuho",
+      "player 2": "MrTeina",
+      "winner": "2"
+    },
+    {
+      "player 1": "Leo_ze_tron",
+      "player 2": "Neg_Eggs",
+      "winner": "1"
+    },
+    {
+      "player 1": "Nariom",
+      "player 2": "HyperJaja",
+      "winner": "1"
+    },
+    {
+      "player 1": "Molfried",
+      "player 2": "CasseBrique",
+      "winner": "2"
+    },
+    {
+      "player 1": "Cayoche",
+      "player 2": "MrTeina",
+      "winner": "1"
+    },
+    {
+      "player 1": "Leo_ze_tron",
+      "player 2": "Nariom",
+      "winner": "1"
+    },
+    {
+      "player 1": "CasseBrique",
+      "player 2": "Cayoche",
+      "winner": "1"
+    },
+    {
+      "player 1": "Leo_ze_tron",
+      "player 2": "CasseBrique",
+      "winner": "1"
+    },
+    {
+      "player 1": "Curedents",
+      "player 2": "Zazima",
+      "winner": "1"
+    },
+    {
+      "player 1": "Khushas",
+      "player 2": "AeroKanzaki",
+      "winner": "2"
+    },
+    {
+      "player 1": "SergeBenamou",
+      "player 2": "NeNeSSquick",
+      "winner": "2"
+    },
+    {
+      "player 1": "Xemorej",
+      "player 2": "Majingrams",
+      "winner": "2"
+    },
+    {
+      "player 1": "Tanook_Leduc",
+      "player 2": "Vin25cent",
+      "winner": "1"
+    },
+    {
+      "player 1": "Thedarkraziel",
+      "player 2": "Hikarichan73",
+      "winner": "2"
+    },
+    {
+      "player 1": "IceChaosDragoon",
+      "player 2": "Kanjo",
+      "winner": "1"
+    },
+    {
+      "player 1": "Calimero38750",
+      "player 2": "Smushis",
+      "winner": "2"
+    },
+    {
+      "player 1": "Kokuho",
+      "player 2": "Curedents",
+      "winner": "1"
+    },
+    {
+      "player 1": "Greed__",
+      "player 2": "AeroKanzaki",
+      "winner": "1"
+    },
+    {
+      "player 1": "Noctyan",
+      "player 2": "NeNeSSquick",
+      "winner": "2"
+    },
+    {
+      "player 1": "Chfou",
+      "player 2": "Majingrams",
+      "winner": "2"
+    },
+    {
+      "player 1": "BodyBrest",
+      "player 2": "Tanook_Leduc",
+      "winner": "2"
+    },
+    {
+      "player 1": "MrPopoche",
+      "player 2": "Hikarichan73",
+      "winner": "1"
+    },
+    {
+      "player 1": "Venom",
+      "player 2": "IceChaosDragoon",
+      "winner": "2"
+    },
+    {
+      "player 1": "Massiste2",
+      "player 2": "Smushis",
+      "winner": "1"
+    },
+    {
+      "player 1": "Kokuho",
+      "player 2": "Greed__",
+      "winner": "1"
+    },
+    {
+      "player 1": "NeNeSSquick",
+      "player 2": "Majingrams",
+      "winner": "1"
+    },
+    {
+      "player 1": "Tanook_Leduc",
+      "player 2": "MrPopoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "IceChaosDragoon",
+      "player 2": "Massiste2",
+      "winner": "1"
+    },
+    {
+      "player 1": "HyperJaja",
+      "player 2": "Kokuho",
+      "winner": "2"
+    },
+    {
+      "player 1": "Neg_Eggs",
+      "player 2": "NeNeSSquick",
+      "winner": "2"
+    },
+    {
+      "player 1": "MrTeina",
+      "player 2": "MrPopoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "Molfried",
+      "player 2": "IceChaosDragoon",
+      "winner": "2"
+    },
+    {
+      "player 1": "Kokuho",
+      "player 2": "NeNeSSquick",
+      "winner": "1"
+    },
+    {
+      "player 1": "MrPopoche",
+      "player 2": "IceChaosDragoon",
+      "winner": "2"
+    },
+    {
+      "player 1": "Cayoche",
+      "player 2": "Kokuho",
+      "winner": "1"
+    },
+    {
+      "player 1": "Nariom",
+      "player 2": "IceChaosDragoon",
+      "winner": "2"
+    },
+    {
+      "player 1": "Cayoche",
+      "player 2": "IceChaosDragoon",
+      "winner": "1"
+    },
+    {
+      "player 1": "CasseBrique",
+      "player 2": "Cayoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "Leo_ze_tron",
+      "player 2": "Cayoche",
+      "winner": "2"
+    },
+    {
+      "player 1": "Cayoche",
+      "player 2": "Leo_ze_tron",
+      "winner": "1"
+    }
+  ]
+}

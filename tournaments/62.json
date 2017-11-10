@@ -1,0 +1,82 @@
+{
+  "name": "iotr2sf",
+  "challonge": "http://challonge.com/iotr2sf",
+  "ruleset": "seeded",
+  "matchups": [
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "Nariom",
+      "winner": "1"
+    },
+    {
+      "player 1": "HauntedQuest",
+      "player 2": "thereisnofuture",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "Brother Chen",
+      "winner": "2"
+    },
+    {
+      "player 1": "Dea1h",
+      "player 2": "PassionDrama",
+      "winner": "1"
+    },
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "thereisnofuture",
+      "winner": "2"
+    },
+    {
+      "player 1": "Brother Chen",
+      "player 2": "Dea1h",
+      "winner": "2"
+    },
+    {
+      "player 1": "thereisnofuture",
+      "player 2": "Dea1h",
+      "winner": "2"
+    },
+    {
+      "player 1": "Nariom",
+      "player 2": "HauntedQuest",
+      "winner": "2"
+    },
+    {
+      "player 1": "Zamiell",
+      "player 2": "PassionDrama",
+      "winner": "2"
+    },
+    {
+      "player 1": "Brother Chen",
+      "player 2": "HauntedQuest",
+      "winner": "2"
+    },
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "PassionDrama",
+      "winner": "1"
+    },
+    {
+      "player 1": "HauntedQuest",
+      "player 2": "antizoubilamaka",
+      "winner": "2"
+    },
+    {
+      "player 1": "thereisnofuture",
+      "player 2": "antizoubilamaka",
+      "winner": "2"
+    },
+    {
+      "player 1": "Dea1h",
+      "player 2": "antizoubilamaka",
+      "winner": "2"
+    },
+    {
+      "player 1": "antizoubilamaka",
+      "player 2": "Dea1h",
+      "winner": "2"
+    }
+  ]
+}
