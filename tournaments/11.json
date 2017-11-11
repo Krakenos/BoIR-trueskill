@@ -1,7 +1,7 @@
 {
   "name": "GameOfTears",
   "challonge": "http://challonge.com/GameOfTears",
-  "ruleset": "",
+  "ruleset": "diversity",
   "matchups": [
     {
       "player 1": "SillyPears",

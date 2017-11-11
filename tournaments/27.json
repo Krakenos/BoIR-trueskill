@@ -1,7 +1,7 @@
 {
   "name": "lemonparty2finals",
   "challonge": "http://challonge.com/lemonparty2finals",
-  "ruleset": "",
+  "ruleset": "unseeded",
   "matchups": [
     {
       "player 1": "BrainTM",

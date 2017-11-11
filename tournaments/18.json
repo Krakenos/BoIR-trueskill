@@ -1,11 +1,11 @@
 {
   "name": "lostchild",
   "challonge": "http://challonge.com/lostchild",
-  "ruleset": "",
+  "ruleset": "unseeded",
   "matchups": [
     {
-      "player 1": "alwaysboredkb",
-      "player 2": "KitsuneWynter",
+      "player 1": "Alwaysboredkb21",
+      "player 2": "KitsuneWynterGames",
       "winner": "1"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "player 1": "ProblemsIRL",
-      "player 2": "alwaysboredkb",
+      "player 2": "Alwaysboredkb21",
       "winner": "1"
     },
     {
