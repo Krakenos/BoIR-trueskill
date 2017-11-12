@@ -3,8 +3,8 @@ from trueskill import Rating, rate_1vs1
 
 
 def calculate_places(racers_dict):
-    leaderboards_list = [{'name': key, 'exposure': value.exposure, 'mu': value.mu} for key, value in
-                         racers_dict.items()]
+    leaderboards_list = [{'name': key, 'exposure': value.exposure, 'mu': value.mu, 'sigma': value.sigma}
+                         for key, value in racers_dict.items()]
     leaderboards_list.sort(key=lambda x: x['exposure'], reverse=True)
     for place, player in enumerate(leaderboards_list):
         player['place'] = place + 1
@@ -31,15 +31,13 @@ def print_leaderboard(leaderboard_json):
     for record in leaderboard_json:
         if len(str(record['name'])) > max_name_lenght:
             max_name_lenght = len(str(record['name']))
-    print(' ' + 5*'_' + max_name_lenght*'_' + 11*'_')
-    print('|Place|' + 'Name' + (max_name_lenght-4)*' ' + '|Trueskill|')
-    print('|'+'_'*5+'|' + '_'*max_name_lenght + '|'+'_'*9+'|')
+    print('Place  ' + 'Name' + (max_name_lenght-2)*' ' + 'Trueskill')
+    print('-'*6 + '-'*max_name_lenght + '-'*12)
     for record in leaderboard_json:
         place = str(record['place'])
         name = record['name']
         exposure = str(round(record['exposure'], 2))
-        print('|' + place + (5-len(place))*' ' + '|' + name + (max_name_lenght-len(name))*' '
-              + '|' + exposure + (9-len(str(exposure)))*' ' + '|')
+        print('#' + place + (5-len(place))*' ' + ' ' + name + (max_name_lenght-len(name)+2)*' ' + exposure)
 
 
 racers = {}
