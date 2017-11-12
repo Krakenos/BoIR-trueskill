@@ -1,9 +1,7 @@
 # BoIR-trueskill
 
-Program written in Python 3.6.1 used to import brackets from [Challonge](http://challonge.com/) and to calculate [TrueSkill](http://trueskill.org/) rating based on individual match ups.
+This is a series of Python 3.6.1 scripts to compile a [TrueSkill](http://trueskill.org/) leaderboard for [The Binding of Isaac: Afterbirth+](http://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) based on tournament match-ups.
 
-To import bracket from [Challonge](http://challonge.com/) paste your Challonge API key into 'api_key' variable in 'json_creator.py'.
+The "json_creator.py" script will import brackets from [Challonge](http://challonge.com/). You will need to paste your Challonge API key into the `api_key` variable.
 
-'main.py' goes through JSON files in 'tournaments' directory in order.
-
-Program is not even close to finished.
+The "main.py" script will go through the JSON files in the "tournaments" directory in order, calculating TrueSkill as it goes along.
