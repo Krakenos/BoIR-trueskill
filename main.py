@@ -52,6 +52,9 @@ try:
             if tournament_data['ruleset'] == 'seeded':
                 for i in range(3):
                     calculate_mmr(race, racers)
+            elif tournament_data['ruleset'] == 'mixed':
+                for i in range(2):
+                    calculate_mmr(race, racers)
             else:
                 calculate_mmr(race, racers)
 
