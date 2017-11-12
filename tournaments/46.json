@@ -1,7 +1,7 @@
 {
   "name": "bfftournamentcomp",
   "challonge": "http://challonge.com/bfftournamentcomp",
-  "ruleset": "",
+  "ruleset": "unseeded",
   "matchups": [
     {
       "player 1": "Cyber_1",

@@ -1,7 +1,7 @@
 {
   "name": "roidrage",
   "challonge": "http://challonge.com/roidrage",
-  "ruleset": "",
+  "ruleset": "mixed",
   "matchups": [
     {
       "player 1": "giraffeFizzoid",

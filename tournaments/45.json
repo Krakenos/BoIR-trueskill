@@ -1,7 +1,7 @@
 {
   "name": "bfftournament",
   "challonge": "http://challonge.com/bfftournament",
-  "ruleset": "",
+  "ruleset": "unseeded",
   "matchups": [
     {
       "player 1": "Sillypears",
