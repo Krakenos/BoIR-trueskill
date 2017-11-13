@@ -27,17 +27,17 @@ def calculate_mmr(matchup, racers_list):
 
 
 def print_leaderboard(leaderboard_json):
-    max_name_lenght = 0
+    max_name_length = 0
     for record in leaderboard_json:
-        if len(str(record['name'])) > max_name_lenght:
-            max_name_lenght = len(str(record['name']))
-    print('Place  ' + 'Name' + (max_name_lenght-2)*' ' + 'Trueskill')
-    print('-'*6 + '-'*max_name_lenght + '-'*12)
+        if len(str(record['name'])) > max_name_length:
+            max_name_length = len(str(record['name']))
+    print('Place  ' + 'Name' + (max_name_length - 2) * ' ' + 'Trueskill')
+    print('-' * 6 + '-' * max_name_length + '-' * 12)
     for record in leaderboard_json:
         place = str(record['place'])
         name = record['name']
         exposure = str(round(record['exposure'], 2))
-        print('#' + place + (5-len(place))*' ' + ' ' + name + (max_name_lenght-len(name)+2)*' ' + exposure)
+        print('#' + place + (5 - len(place)) * ' ' + ' ' + name + (max_name_length - len(name) + 2) * ' ' + exposure)
 
 
 racers = {}
