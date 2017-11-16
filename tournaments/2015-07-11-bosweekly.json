@@ -1,0 +1,85 @@
+{
+  "name": "Balls of Steel Weekly 1",
+  "challonge": "http://challonge.com/bosweekly",
+  "date": "11-07-2015",
+  "organizer": "Diabetech",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "NebularView",
+      "loser": "Hazard900",
+      "score": ""
+    },
+    {
+      "winner": "CaspianCrawdad",
+      "loser": "TomNooksDebt",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "YamaYamaDingDong",
+      "score": ""
+    },
+    {
+      "winner": "Xelnas",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Thalen22",
+      "score": ""
+    },
+    {
+      "winner": "Erbear_",
+      "loser": "Minimelt35",
+      "score": ""
+    },
+    {
+      "winner": "ou_j",
+      "loser": "Merlin_Sensei",
+      "score": ""
+    },
+    {
+      "winner": "Duneaught",
+      "loser": "Fug1t",
+      "score": ""
+    },
+    {
+      "winner": "NebularView",
+      "loser": "CaspianCrawdad",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "Xelnas",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Erbear_",
+      "score": ""
+    },
+    {
+      "winner": "Duneaught",
+      "loser": "ou_j",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "NebularView",
+      "score": ""
+    },
+    {
+      "winner": "Duneaught",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "Duneaught",
+      "score": ""
+    }
+  ]
+}

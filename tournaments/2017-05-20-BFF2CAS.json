@@ -1,0 +1,85 @@
+{
+  "name": "BFF 2 Casual",
+  "challonge": "http://challonge.com/BFF2CAS",
+  "date": "20-05-2017",
+  "organizer": "tyrannasauruslex",
+  "ruleset": "diversity",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Dune1008",
+      "loser": "Sir_Munch",
+      "score": ""
+    },
+    {
+      "winner": "tODDlife",
+      "loser": "VicThor23",
+      "score": ""
+    },
+    {
+      "winner": "LogBasePotato",
+      "loser": "nicoluwu",
+      "score": ""
+    },
+    {
+      "winner": "MarcialKiller",
+      "loser": "Zalkyria",
+      "score": ""
+    },
+    {
+      "winner": "SapphireHX",
+      "loser": "Smoomy",
+      "score": ""
+    },
+    {
+      "winner": "Phantasm13",
+      "loser": "Minimelt35",
+      "score": ""
+    },
+    {
+      "winner": "KazooieGirl",
+      "loser": "SharpAzula",
+      "score": ""
+    },
+    {
+      "winner": "Thoday",
+      "loser": "Tisarane",
+      "score": ""
+    },
+    {
+      "winner": "tODDlife",
+      "loser": "Dune1008",
+      "score": ""
+    },
+    {
+      "winner": "LogBasePotato",
+      "loser": "MarcialKiller",
+      "score": ""
+    },
+    {
+      "winner": "SapphireHX",
+      "loser": "Phantasm13",
+      "score": ""
+    },
+    {
+      "winner": "Thoday",
+      "loser": "KazooieGirl",
+      "score": ""
+    },
+    {
+      "winner": "LogBasePotato",
+      "loser": "tODDlife",
+      "score": ""
+    },
+    {
+      "winner": "SapphireHX",
+      "loser": "Thoday",
+      "score": ""
+    },
+    {
+      "winner": "SapphireHX",
+      "loser": "LogBasePotato",
+      "score": ""
+    }
+  ]
+}

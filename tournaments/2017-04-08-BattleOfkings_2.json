@@ -1,0 +1,45 @@
+{
+  "name": "Battle of Kings 2",
+  "challonge": "http://challonge.com/BattleOfkings_2",
+  "date": "08-04-2017",
+  "organizer": "Dea1h",
+  "ruleset": "seeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "antizoubilamaka",
+      "loser": "ThereIsNotFuture",
+      "score": ""
+    },
+    {
+      "winner": "ThisGuyisbarry",
+      "loser": "Ceehe",
+      "score": ""
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "SlashSP",
+      "score": ""
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "ThisGuyisbarry",
+      "score": ""
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "PassionDrama",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "ReidMercury__",
+      "score": ""
+    }
+  ]
+}

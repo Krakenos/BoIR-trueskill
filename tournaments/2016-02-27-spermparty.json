@@ -1,0 +1,70 @@
+{
+  "name": "Sperm Party",
+  "challonge": "http://challonge.com/spermparty",
+  "date": "27-02-2016",
+  "organizer": "Zamiell",
+  "ruleset": "seeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "ThisGuyIsBarry",
+      "loser": "Nicoluwu",
+      "score": ""
+    },
+    {
+      "winner": "Cmondinger",
+      "loser": "Thalen22",
+      "score": ""
+    },
+    {
+      "winner": "DKlaww",
+      "loser": "Sillypears",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Rydyell",
+      "score": ""
+    },
+    {
+      "winner": "Dadalo1",
+      "loser": "SlashSP",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "ThisGuyIsBarry",
+      "score": ""
+    },
+    {
+      "winner": "DKlaww",
+      "loser": "Cmondinger",
+      "score": ""
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "CrafterLynx",
+      "score": ""
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Dadalo1",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "DKlaww",
+      "score": ""
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Zamiell",
+      "score": ""
+    }
+  ]
+}

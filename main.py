@@ -1,4 +1,5 @@
 import json
+import glob
 from trueskill import Rating, rate_1vs1
 
 
@@ -12,29 +13,22 @@ def calculate_places(racers_dict):
 
 
 def calculate_mmr(matchup, racers_list):
-    player_1 = matchup['player 1'].lower()
-    player_2 = matchup['player 2'].lower()
-    winner = matchup['winner']
-    if player_1 not in racers_list:
-        racers_list[player_1] = Rating(25)
-    if player_2 not in racers_list:
-        racers_list[player_2] = Rating(25)
-    old_exposure_1 = racers_list[player_1].exposure
-    old_exposure_2 = racers_list[player_2].exposure
-    if winner == '1':
-        racers_list[player_1], racers_list[player_2] = rate_1vs1(racers_list[player_1], racers_list[player_2])
-        if debug:
-            print(player_1 + ' ' + player_2 + ' ' + str(racers_list[player_1].exposure) + ' ' + str(
-                racers_list[player_2].exposure) + ' +' + str(
-                racers_list[player_1].exposure - old_exposure_1) + ' ' + str(
-                racers_list[player_2].exposure - old_exposure_2))
-    elif winner == '2':
-        racers_list[player_2], racers_list[player_1] = rate_1vs1(racers_list[player_2], racers_list[player_1])
-        if debug:
-            print(player_2 + ' ' + player_1 + ' ' + str(racers_list[player_2].exposure) + ' ' + str(
-                racers_list[player_1].exposure) + ' +' + str(
-                racers_list[player_2].exposure - old_exposure_2) + ' ' + str(
-                racers_list[player_1].exposure - old_exposure_1))
+    winner = matchup['winner'].lower()
+    loser = matchup['loser'].lower()
+    if winner not in racers_list:
+        racers_list[winner] = Rating(25)
+    if loser not in racers_list:
+        racers_list[loser] = Rating(25)
+    old_exposure_1 = racers_list[winner].exposure
+    old_exposure_2 = racers_list[loser].exposure
+    if not (matchup['score'] == 'draw'):
+        racers_list[winner], racers_list[loser] = rate_1vs1(racers_list[winner], racers_list[loser])
+    if debug:
+        print(winner + ' ' + loser + ' ' + str(racers_list[winner].exposure) + ' ' + str(
+            racers_list[loser].exposure) + ' +' + str(
+            racers_list[winner].exposure - old_exposure_1) + ' ' + str(
+            racers_list[loser].exposure - old_exposure_2))
+
     return racers_list
 
 
@@ -54,31 +48,29 @@ def print_leaderboard(leaderboard_json):
 
 debug = False  # Changing to True will cause printing out exposure change for each match up
 racers = {}
-try:
-    n = 0
-    while True:
-        n = n + 1
-        with open('tournaments/' + str(n) + '.json') as datafile:
-            tournament_data = json.load(datafile)
-        race_list = tournament_data['matchups']
-        for race in race_list:
-            if tournament_data['ruleset'] == 'seeded':
-                if debug:
-                    print('seeded')
-                for i in range(4):
-                    calculate_mmr(race, racers)
-            elif tournament_data['ruleset'] == 'mixed':
-                if debug:
-                    print('mixed')
-                for i in range(2):
-                    calculate_mmr(race, racers)
-            else:
-                if debug:
-                    print('unseeded')
+for infile in sorted(glob.glob('tournaments/*.json')):
+    with open(infile) as datafile:
+        tournament_data = json.load(datafile)
+    race_list = tournament_data['matchups']
+    for race in race_list:
+        if tournament_data['ruleset'] == 'seeded':
+            if debug:
+                print('seeded')
+            for i in range(4):
                 calculate_mmr(race, racers)
+        elif tournament_data['ruleset'] == 'mixed':
+            if debug:
+                print('mixed')
+            for i in range(2):
+                calculate_mmr(race, racers)
+        elif tournament_data['ruleset'] == 'other':
+            continue
+        else:
+            if debug:
+                print('unseeded')
+            calculate_mmr(race, racers)
 
-except FileNotFoundError:
-    leaderboard = calculate_places(racers)
-    with open('leaderboard.json', 'w') as output:
-        json.dump(leaderboard, output, indent=2)
-    print_leaderboard(leaderboard)
+leaderboard = calculate_places(racers)
+with open('leaderboard.json', 'w') as output:
+    json.dump(leaderboard, output, indent=2)
+print_leaderboard(leaderboard)

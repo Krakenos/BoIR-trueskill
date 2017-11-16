@@ -1,0 +1,45 @@
+{
+  "name": "Isaac World Cup Finals",
+  "challonge": "http://challonge.com/IsaacWC",
+  "date": "15-07-2017",
+  "organizer": "bmz_loop",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "SlashSP",
+      "loser": "CrafterLynx",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "ceehe",
+      "score": ""
+    },
+    {
+      "winner": "Blumpkin_Idaho",
+      "loser": "Flaw456",
+      "score": ""
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Lightning2211",
+      "score": ""
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Blumpkin_Idaho",
+      "score": ""
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "SlashSP",
+      "score": ""
+    }
+  ]
+}

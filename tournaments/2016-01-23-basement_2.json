@@ -1,0 +1,85 @@
+{
+  "name": "Basement 2",
+  "challonge": "http://challonge.com/basement_2",
+  "date": "23-01-2016",
+  "organizer": "Haagiboy88",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "PK_Antifreeze",
+      "loser": "Deejumbles",
+      "score": ""
+    },
+    {
+      "winner": "Cmondinger",
+      "loser": "tODDlife",
+      "score": ""
+    },
+    {
+      "winner": "Calsans",
+      "loser": "KitsuneWynterGames",
+      "score": ""
+    },
+    {
+      "winner": "ambidex999",
+      "loser": "ThePuffinPunk",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "sfan786",
+      "score": ""
+    },
+    {
+      "winner": "ShinNessTen",
+      "loser": "s0cialphobia",
+      "score": ""
+    },
+    {
+      "winner": "TheMoonSage",
+      "loser": "Chronometrics",
+      "score": ""
+    },
+    {
+      "winner": "NeNessQuick",
+      "loser": "ParadoxQuine",
+      "score": ""
+    },
+    {
+      "winner": "PK_Antifreeze",
+      "loser": "Cmondinger",
+      "score": ""
+    },
+    {
+      "winner": "ambidex999",
+      "loser": "Calsans",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "ShinNessTen",
+      "score": ""
+    },
+    {
+      "winner": "NeNessQuick",
+      "loser": "TheMoonSage",
+      "score": ""
+    },
+    {
+      "winner": "ambidex999",
+      "loser": "PK_Antifreeze",
+      "score": ""
+    },
+    {
+      "winner": "NeNessQuick",
+      "loser": "CrafterLynx",
+      "score": ""
+    },
+    {
+      "winner": "ambidex999",
+      "loser": "NeNessQuick",
+      "score": ""
+    }
+  ]
+}

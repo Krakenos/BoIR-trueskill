@@ -1,0 +1,85 @@
+{
+  "name": "Pandora's Box",
+  "challonge": "http://challonge.com/tournoipandorasbox",
+  "date": "15-10-2016",
+  "organizer": "LaTaupeFR",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "La_Liburne_Automatique",
+      "loser": "grossebrebi",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "personne",
+      "score": ""
+    },
+    {
+      "winner": "calimero38750",
+      "loser": "Ilianasable",
+      "score": ""
+    },
+    {
+      "winner": "zefynra",
+      "loser": "Tifaerith",
+      "score": ""
+    },
+    {
+      "winner": "Chfou",
+      "loser": "Hikarichan73",
+      "score": ""
+    },
+    {
+      "winner": "Curedents",
+      "loser": "Sakk_",
+      "score": ""
+    },
+    {
+      "winner": "Diabalzane",
+      "loser": "EnorielLelfe",
+      "score": ""
+    },
+    {
+      "winner": "SpiritOwners",
+      "loser": "MrPopoche",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "La_Liburne_Automatique",
+      "score": ""
+    },
+    {
+      "winner": "calimero38750",
+      "loser": "zefynra",
+      "score": ""
+    },
+    {
+      "winner": "Chfou",
+      "loser": "Curedents",
+      "score": ""
+    },
+    {
+      "winner": "Diabalzane",
+      "loser": "SpiritOwners",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "calimero38750",
+      "score": ""
+    },
+    {
+      "winner": "Chfou",
+      "loser": "Diabalzane",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "Chfou",
+      "score": ""
+    }
+  ]
+}

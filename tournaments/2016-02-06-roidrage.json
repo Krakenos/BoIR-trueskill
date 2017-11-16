@@ -1,0 +1,45 @@
+{
+  "name": "Roid Rage",
+  "challonge": "http://challonge.com/roidrage",
+  "date": "06-02-2016",
+  "organizer": "SSundee",
+  "ruleset": "mixed",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "giraffeFizzoid",
+      "loser": "ImWayToPunny",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "Diabetech",
+      "loser": "Cyber_1",
+      "score": ""
+    },
+    {
+      "winner": "giraffeFizzoid",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "Diabetech",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "giraffeFizzoid",
+      "score": ""
+    }
+  ]
+}

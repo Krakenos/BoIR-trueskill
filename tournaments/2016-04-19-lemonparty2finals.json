@@ -1,0 +1,80 @@
+{
+  "name": "Lemon Party League 2 Finals",
+  "challonge": "http://challonge.com/lemonparty2finals",
+  "date": "19-04-2016",
+  "organizer": "Zamiell",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "BrainTM",
+      "loser": "Nicoluwu",
+      "score": ""
+    },
+    {
+      "winner": "thisguyisbarry",
+      "loser": "NuRelic",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "fug1t",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "bmz_loop",
+      "score": ""
+    },
+    {
+      "winner": "BrainTM",
+      "loser": "thisguyisbarry",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "ProblemsIRL",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "BrainTM",
+      "score": ""
+    },
+    {
+      "winner": "NuRelic",
+      "loser": "Nicoluwu",
+      "score": ""
+    },
+    {
+      "winner": "fug1t",
+      "loser": "bmz_loop",
+      "score": ""
+    },
+    {
+      "winner": "NuRelic",
+      "loser": "ProblemsIRL",
+      "score": ""
+    },
+    {
+      "winner": "fug1t",
+      "loser": "thisguyisbarry",
+      "score": ""
+    },
+    {
+      "winner": "NuRelic",
+      "loser": "fug1t",
+      "score": ""
+    },
+    {
+      "winner": "NuRelic",
+      "loser": "BrainTM",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "NuRelic",
+      "score": ""
+    }
+  ]
+}

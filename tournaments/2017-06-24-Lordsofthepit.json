@@ -1,0 +1,85 @@
+{
+  "name": "Lords of the Pit",
+  "challonge": "http://challonge.com/Lordsofthepit",
+  "date": "24-06-2017",
+  "organizer": "SlashSP",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "leo_ze_tron",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "ceehe",
+      "score": ""
+    },
+    {
+      "winner": "zamiell",
+      "loser": "thereisnofuture",
+      "score": ""
+    },
+    {
+      "winner": "krakenos",
+      "loser": "thalen22",
+      "score": ""
+    },
+    {
+      "winner": "tyrannasauruslex",
+      "loser": "thisguyisbarry",
+      "score": ""
+    },
+    {
+      "winner": "Crafterlynx",
+      "loser": "cranderveldt",
+      "score": ""
+    },
+    {
+      "winner": "TheMoonSage",
+      "loser": "hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "Flaw456",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "leo_ze_tron",
+      "score": ""
+    },
+    {
+      "winner": "zamiell",
+      "loser": "krakenos",
+      "score": ""
+    },
+    {
+      "winner": "Crafterlynx",
+      "loser": "tyrannasauruslex",
+      "score": ""
+    },
+    {
+      "winner": "Flaw456",
+      "loser": "TheMoonSage",
+      "score": ""
+    },
+    {
+      "winner": "zamiell",
+      "loser": "Shigan_",
+      "score": ""
+    },
+    {
+      "winner": "Crafterlynx",
+      "loser": "Flaw456",
+      "score": ""
+    },
+    {
+      "winner": "Crafterlynx",
+      "loser": "zamiell",
+      "score": ""
+    }
+  ]
+}

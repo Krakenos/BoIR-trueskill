@@ -1,0 +1,45 @@
+{
+  "name": "Battle Of Kings 3",
+  "challonge": "http://challonge.com/BattleOfKings3",
+  "date": "13-05-2017",
+  "organizer": "Dea1h",
+  "ruleset": "seeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "antizoubilamaka",
+      "loser": "Dea1h",
+      "score": ""
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "GiraffeFizzoid",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "Cyber_1",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "GiraffeFizzoid",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Cyber_1",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "antizoubilamaka",
+      "score": ""
+    }
+  ]
+}

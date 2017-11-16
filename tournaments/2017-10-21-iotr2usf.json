@@ -1,0 +1,80 @@
+{
+  "name": "Isaacs of the Round 2 Unseeded Finals",
+  "challonge": "http://challonge.com/iotr2usf",
+  "date": "21-10-2017",
+  "organizer": "xUnhingedMoose",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Blumpkin_Idaho",
+      "loser": "Hikarichan73",
+      "score": ""
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Brother Chen",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "SlashSP",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "ceehe",
+      "score": ""
+    },
+    {
+      "winner": "Blumpkin_Idaho",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Dea1h",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Blumpkin_Idaho",
+      "score": ""
+    },
+    {
+      "winner": "Hikarichan73",
+      "loser": "Brother Chen",
+      "score": ""
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "ceehe",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Hikarichan73",
+      "score": ""
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Dea1h",
+      "score": ""
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Blumpkin_Idaho",
+      "score": ""
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "SlashSP",
+      "score": ""
+    }
+  ]
+}

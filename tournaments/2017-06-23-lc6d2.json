@@ -1,0 +1,45 @@
+{
+  "name": "Lost Child 6 Diversity",
+  "challonge": "http://challonge.com/lc6d2",
+  "date": "23-06-2017",
+  "organizer": "Xelnas",
+  "ruleset": "diversity",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Lobsterosity",
+      "loser": "DrathianGull",
+      "score": ""
+    },
+    {
+      "winner": "910Dan",
+      "loser": "Waltimate",
+      "score": ""
+    },
+    {
+      "winner": "JerseyRebox",
+      "loser": "SlashSP",
+      "score": ""
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "invadertimstreams",
+      "score": ""
+    },
+    {
+      "winner": "Lobsterosity",
+      "loser": "910Dan",
+      "score": ""
+    },
+    {
+      "winner": "JerseyRebox",
+      "loser": "Krakenos",
+      "score": ""
+    },
+    {
+      "winner": "JerseyRebox",
+      "loser": "Lobsterosity",
+      "score": ""
+    }
+  ]
+}

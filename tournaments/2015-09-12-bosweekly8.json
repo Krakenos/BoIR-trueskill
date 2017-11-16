@@ -1,0 +1,85 @@
+{
+  "name": "Balls of Steel #8",
+  "challonge": "http://challonge.com/bosweekly8",
+  "date": "12-09-2015",
+  "organizer": "Diabetech",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Eliznik",
+      "loser": "Peppicx",
+      "score": ""
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "NebularView",
+      "score": ""
+    },
+    {
+      "winner": "Oh_My_Goth_",
+      "loser": "Sillypears",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "Thalen22",
+      "score": ""
+    },
+    {
+      "winner": "Nurelic",
+      "loser": "Scyther159",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "Xelnas",
+      "score": ""
+    },
+    {
+      "winner": "TheFullCrumb",
+      "loser": "ImWayToPunny",
+      "score": ""
+    },
+    {
+      "winner": "GastonDupris",
+      "loser": "InvaderTimStreams",
+      "score": ""
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Eliznik",
+      "score": ""
+    },
+    {
+      "winner": "Oh_My_Goth_",
+      "loser": "FiveMoreMinutes",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "Nurelic",
+      "score": ""
+    },
+    {
+      "winner": "GastonDupris",
+      "loser": "TheFullCrumb",
+      "score": ""
+    },
+    {
+      "winner": "Oh_My_Goth_",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "GastonDupris",
+      "score": ""
+    },
+    {
+      "winner": "BMZ_Loop",
+      "loser": "Oh_My_Goth_",
+      "score": ""
+    }
+  ]
+}

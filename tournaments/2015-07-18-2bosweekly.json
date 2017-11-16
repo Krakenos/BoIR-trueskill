@@ -1,0 +1,85 @@
+{
+  "name": "Balls of Steel Weekly 2",
+  "challonge": "http://challonge.com/2bosweekly",
+  "date": "18-07-2015",
+  "organizer": "Diabetech",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "BrainTM",
+      "loser": "TheGameSire",
+      "score": ""
+    },
+    {
+      "winner": "REXMoreOP",
+      "loser": "TomNooksDebt",
+      "score": ""
+    },
+    {
+      "winner": "NomsTaiters",
+      "loser": "KevinC22",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "Myshka1",
+      "score": ""
+    },
+    {
+      "winner": "JackOfGames",
+      "loser": "Scyther159",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "Fisshy_",
+      "score": ""
+    },
+    {
+      "winner": "NebularView",
+      "loser": "Connorb_",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "Cransoon",
+      "score": ""
+    },
+    {
+      "winner": "BrainTM",
+      "loser": "REXMoreOP",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "NomsTaiters",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "JackOfGames",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "NebularView",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "BrainTM",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "ProblemsIRL",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "FiveMoreMinutes",
+      "score": ""
+    }
+  ]
+}

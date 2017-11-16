@@ -1,0 +1,80 @@
+{
+  "name": "Lemon Party Finals",
+  "challonge": "http://challonge.com/lemonpartyfinals",
+  "date": "03-10-2015",
+  "organizer": "Zamiell",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "ProblemsIRL",
+      "loser": "MolochBob",
+      "score": ""
+    },
+    {
+      "winner": "hyphen_ated",
+      "loser": "connorb_",
+      "score": ""
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "imwaytopunny",
+      "score": ""
+    },
+    {
+      "winner": "bmz_loop",
+      "loser": "mikeylikeslt",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "bmz_loop",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "bmz_loop",
+      "score": ""
+    },
+    {
+      "winner": "connorb_",
+      "loser": "MolochBob",
+      "score": ""
+    },
+    {
+      "winner": "imwaytopunny",
+      "loser": "mikeylikeslt",
+      "score": ""
+    },
+    {
+      "winner": "connorb_",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "hyphen_ated",
+      "loser": "imwaytopunny",
+      "score": ""
+    },
+    {
+      "winner": "hyphen_ated",
+      "loser": "connorb_",
+      "score": ""
+    },
+    {
+      "winner": "hyphen_ated",
+      "loser": "bmz_loop",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "hyphen_ated",
+      "score": ""
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "name": "BITE",
+  "challonge": "http://challonge.com/ud6vduat",
+  "date": "11-01-2016",
+  "organizer": "Shigan_",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Leo_ze_tron",
+      "loser": "Curedents",
+      "score": ""
+    },
+    {
+      "winner": "Massiste2",
+      "loser": "Zazima",
+      "score": ""
+    },
+    {
+      "winner": "Venom",
+      "loser": "Khushas",
+      "score": ""
+    },
+    {
+      "winner": "Neg_Eggs",
+      "loser": "AeroKanzaki",
+      "score": ""
+    },
+    {
+      "winner": "Nariom",
+      "loser": "SergeBenamou",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "NeNeSSquick",
+      "score": ""
+    },
+    {
+      "winner": "HyperJaja",
+      "loser": "Xemorej",
+      "score": ""
+    },
+    {
+      "winner": "BodyBrest",
+      "loser": "Majingrams",
+      "score": ""
+    },
+    {
+      "winner": "Molfried",
+      "loser": "Tanook_Leduc",
+      "score": ""
+    },
+    {
+      "winner": "Chfou",
+      "loser": "Vin25cent",
+      "score": ""
+    },
+    {
+      "winner": "CasseBrique",
+      "loser": "Thedarkraziel",
+      "score": ""
+    },
+    {
+      "winner": "Noctyan",
+      "loser": "Hikarichan73",
+      "score": ""
+    },
+    {
+      "winner": "Greed__",
+      "loser": "IceChaosDragoon",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Kanjo",
+      "score": ""
+    },
+    {
+      "winner": "Kokuho",
+      "loser": "Calimero38750",
+      "score": ""
+    },
+    {
+      "winner": "MrTeina",
+      "loser": "Smushis",
+      "score": ""
+    },
+    {
+      "winner": "Leo_ze_tron",
+      "loser": "Massiste2",
+      "score": ""
+    },
+    {
+      "winner": "Neg_Eggs",
+      "loser": "Venom",
+      "score": ""
+    },
+    {
+      "winner": "Nariom",
+      "loser": "MrPopoche",
+      "score": ""
+    },
+    {
+      "winner": "HyperJaja",
+      "loser": "BodyBrest",
+      "score": ""
+    },
+    {
+      "winner": "Molfried",
+      "loser": "Chfou",
+      "score": ""
+    },
+    {
+      "winner": "CasseBrique",
+      "loser": "Noctyan",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Greed__",
+      "score": ""
+    },
+    {
+      "winner": "MrTeina",
+      "loser": "Kokuho",
+      "score": ""
+    },
+    {
+      "winner": "Leo_ze_tron",
+      "loser": "Neg_Eggs",
+      "score": ""
+    },
+    {
+      "winner": "Nariom",
+      "loser": "HyperJaja",
+      "score": ""
+    },
+    {
+      "winner": "CasseBrique",
+      "loser": "Molfried",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "MrTeina",
+      "score": ""
+    },
+    {
+      "winner": "Leo_ze_tron",
+      "loser": "Nariom",
+      "score": ""
+    },
+    {
+      "winner": "CasseBrique",
+      "loser": "Cayoche",
+      "score": ""
+    },
+    {
+      "winner": "Leo_ze_tron",
+      "loser": "CasseBrique",
+      "score": ""
+    },
+    {
+      "winner": "Curedents",
+      "loser": "Zazima",
+      "score": ""
+    },
+    {
+      "winner": "AeroKanzaki",
+      "loser": "Khushas",
+      "score": ""
+    },
+    {
+      "winner": "NeNeSSquick",
+      "loser": "SergeBenamou",
+      "score": ""
+    },
+    {
+      "winner": "Majingrams",
+      "loser": "Xemorej",
+      "score": ""
+    },
+    {
+      "winner": "Tanook_Leduc",
+      "loser": "Vin25cent",
+      "score": ""
+    },
+    {
+      "winner": "Hikarichan73",
+      "loser": "Thedarkraziel",
+      "score": ""
+    },
+    {
+      "winner": "IceChaosDragoon",
+      "loser": "Kanjo",
+      "score": ""
+    },
+    {
+      "winner": "Smushis",
+      "loser": "Calimero38750",
+      "score": ""
+    },
+    {
+      "winner": "Kokuho",
+      "loser": "Curedents",
+      "score": ""
+    },
+    {
+      "winner": "Greed__",
+      "loser": "AeroKanzaki",
+      "score": ""
+    },
+    {
+      "winner": "NeNeSSquick",
+      "loser": "Noctyan",
+      "score": ""
+    },
+    {
+      "winner": "Majingrams",
+      "loser": "Chfou",
+      "score": ""
+    },
+    {
+      "winner": "Tanook_Leduc",
+      "loser": "BodyBrest",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "Hikarichan73",
+      "score": ""
+    },
+    {
+      "winner": "IceChaosDragoon",
+      "loser": "Venom",
+      "score": ""
+    },
+    {
+      "winner": "Massiste2",
+      "loser": "Smushis",
+      "score": ""
+    },
+    {
+      "winner": "Kokuho",
+      "loser": "Greed__",
+      "score": ""
+    },
+    {
+      "winner": "NeNeSSquick",
+      "loser": "Majingrams",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "Tanook_Leduc",
+      "score": ""
+    },
+    {
+      "winner": "IceChaosDragoon",
+      "loser": "Massiste2",
+      "score": ""
+    },
+    {
+      "winner": "Kokuho",
+      "loser": "HyperJaja",
+      "score": ""
+    },
+    {
+      "winner": "NeNeSSquick",
+      "loser": "Neg_Eggs",
+      "score": ""
+    },
+    {
+      "winner": "MrPopoche",
+      "loser": "MrTeina",
+      "score": ""
+    },
+    {
+      "winner": "IceChaosDragoon",
+      "loser": "Molfried",
+      "score": ""
+    },
+    {
+      "winner": "Kokuho",
+      "loser": "NeNeSSquick",
+      "score": ""
+    },
+    {
+      "winner": "IceChaosDragoon",
+      "loser": "MrPopoche",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Kokuho",
+      "score": ""
+    },
+    {
+      "winner": "IceChaosDragoon",
+      "loser": "Nariom",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "IceChaosDragoon",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "CasseBrique",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Leo_ze_tron",
+      "score": ""
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Leo_ze_tron",
+      "score": ""
+    }
+  ]
+}

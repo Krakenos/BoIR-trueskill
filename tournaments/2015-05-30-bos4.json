@@ -1,0 +1,320 @@
+{
+  "name": "Balls of Steel 4",
+  "challonge": "http://challonge.com/bos4",
+  "date": "30-05-2015",
+  "organizer": "CobaltStreak",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Ognos",
+      "loser": "Atozmos",
+      "score": ""
+    },
+    {
+      "winner": "iNtense003",
+      "loser": "Duneaught",
+      "score": ""
+    },
+    {
+      "winner": "Diabetech",
+      "loser": "Carnosaur",
+      "score": ""
+    },
+    {
+      "winner": "RatRacing",
+      "loser": "JimDrizzle",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "BeeGee0",
+      "score": ""
+    },
+    {
+      "winner": "DarkDragonx6",
+      "loser": "EladDifficult",
+      "score": ""
+    },
+    {
+      "winner": "JerseyRebox",
+      "loser": "itzasickscot",
+      "score": ""
+    },
+    {
+      "winner": "YamaYamaDingDong",
+      "loser": "OldVulpine",
+      "score": ""
+    },
+    {
+      "winner": "Slackaholicus",
+      "loser": "ExoSc2",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "bmz_loop",
+      "score": ""
+    },
+    {
+      "winner": "Black_yuu",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "iKasperr",
+      "loser": "RexmoreOP",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "MikeyLikesLT",
+      "score": ""
+    },
+    {
+      "winner": "910Dan",
+      "loser": "FiveMoreMinutes",
+      "score": ""
+    },
+    {
+      "winner": "Admiral_Bahroo",
+      "loser": "ShigyDigy",
+      "score": ""
+    },
+    {
+      "winner": "Staekk",
+      "loser": "MythikInk",
+      "score": ""
+    },
+    {
+      "winner": "Ognos",
+      "loser": "iNtense003",
+      "score": ""
+    },
+    {
+      "winner": "Diabetech",
+      "loser": "RatRacing",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "DarkDragonx6",
+      "score": ""
+    },
+    {
+      "winner": "JerseyRebox",
+      "loser": "YamaYamaDingDong",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "Slackaholicus",
+      "score": ""
+    },
+    {
+      "winner": "iKasperr",
+      "loser": "Black_yuu",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "910Dan",
+      "score": ""
+    },
+    {
+      "winner": "Admiral_Bahroo",
+      "loser": "Staekk",
+      "score": ""
+    },
+    {
+      "winner": "Diabetech",
+      "loser": "Ognos",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "JerseyRebox",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "iKasperr",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "Admiral_Bahroo",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "Diabetech",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "Hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "ProblemsIRL",
+      "score": ""
+    },
+    {
+      "winner": "Atozmos",
+      "loser": "Duneaught",
+      "score": ""
+    },
+    {
+      "winner": "JimDrizzle",
+      "loser": "Carnosaur",
+      "score": ""
+    },
+    {
+      "winner": "BeeGee0",
+      "loser": "EladDifficult",
+      "score": ""
+    },
+    {
+      "winner": "OldVulpine",
+      "loser": "itzasickscot",
+      "score": ""
+    },
+    {
+      "winner": "bmz_loop",
+      "loser": "ExoSc2",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "RexmoreOP",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "MikeyLikesLT",
+      "score": ""
+    },
+    {
+      "winner": "MythikInk",
+      "loser": "ShigyDigy",
+      "score": ""
+    },
+    {
+      "winner": "Atozmos",
+      "loser": "Staekk",
+      "score": ""
+    },
+    {
+      "winner": "910Dan",
+      "loser": "JimDrizzle",
+      "score": ""
+    },
+    {
+      "winner": "Black_yuu",
+      "loser": "BeeGee0",
+      "score": ""
+    },
+    {
+      "winner": "OldVulpine",
+      "loser": "Slackaholicus",
+      "score": ""
+    },
+    {
+      "winner": "YamaYamaDingDong",
+      "loser": "bmz_loop",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "DarkDragonx6",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "RatRacing",
+      "score": ""
+    },
+    {
+      "winner": "MythikInk",
+      "loser": "iNtense003",
+      "score": ""
+    },
+    {
+      "winner": "Atozmos",
+      "loser": "910Dan",
+      "score": ""
+    },
+    {
+      "winner": "OldVulpine",
+      "loser": "Black_yuu",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "YamaYamaDingDong",
+      "score": ""
+    },
+    {
+      "winner": "FiveMoreMinutes",
+      "loser": "MythikInk",
+      "score": ""
+    },
+    {
+      "winner": "Atozmos",
+      "loser": "JerseyRebox",
+      "score": ""
+    },
+    {
+      "winner": "OldVulpine",
+      "loser": "Ognos",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Admiral_Bahroo",
+      "score": ""
+    },
+    {
+      "winner": "iKasperr",
+      "loser": "FiveMoreMinutes",
+      "score": ""
+    },
+    {
+      "winner": "OldVulpine",
+      "loser": "Atozmos",
+      "score": ""
+    },
+    {
+      "winner": "iKasperr",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "OldVulpine",
+      "score": ""
+    },
+    {
+      "winner": "iKasperr",
+      "loser": "Diabetech",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "iKasperr",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "Hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "ImWayToPunny",
+      "loser": "ProblemsIRL",
+      "score": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Lost Child 3",
+  "challonge": "http://challonge.com/LC3Thewildhaunt",
+  "date": "20-02-2016",
+  "organizer": "Xelnas",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "BrainTM",
+      "loser": "Rifikins1992",
+      "score": ""
+    },
+    {
+      "winner": "Alwaysboredkb21",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Thalen22",
+      "score": ""
+    },
+    {
+      "winner": "Ou_j",
+      "loser": "Ceehe",
+      "score": ""
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "NebularView",
+      "score": ""
+    },
+    {
+      "winner": "ThisGuyIsBarry",
+      "loser": "GSrV",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "ItsScion",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "ThePuffinPunk",
+      "score": ""
+    },
+    {
+      "winner": "BrainTM",
+      "loser": "Alwaysboredkb21",
+      "score": ""
+    },
+    {
+      "winner": "Ou_j",
+      "loser": "HauntedQuest",
+      "score": ""
+    },
+    {
+      "winner": "ThisGuyIsBarry",
+      "loser": "Dea1h",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "Hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "BrainTM",
+      "loser": "Ou_j",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "ThisGuyIsBarry",
+      "score": ""
+    },
+    {
+      "winner": "ProblemsIRL",
+      "loser": "BrainTM",
+      "score": ""
+    }
+  ]
+}

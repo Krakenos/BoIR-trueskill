@@ -1,0 +1,50 @@
+{
+  "name": "BFF Competitive",
+  "challonge": "http://challonge.com/bfftournamentcomp",
+  "date": "26-02-2017",
+  "organizer": "tyrannasauruslex",
+  "ruleset": "unseeded",
+  "description": "",
+  "matchups": [
+    {
+      "winner": "Cyber_1",
+      "loser": "Inschato",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "Dea1h",
+      "score": ""
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "antizoubilamaka",
+      "score": ""
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "ImWayToPunny",
+      "score": ""
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Hyphen_ated",
+      "score": ""
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "Zamiell",
+      "score": ""
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Krakenos",
+      "score": ""
+    },
+    {
+      "winner": "Hyphen_ated",
+      "loser": "Zamiell",
+      "score": ""
+    }
+  ]
+}
