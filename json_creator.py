@@ -47,5 +47,5 @@ while True:
     tourney_data = tourney['tournament']
     date = tourney_data['started_at'].split('T', 1)[0]  # YYYY-MM-DD
     json_var = json_parser(tourney_data, date)
-    with open('tournaments/' + date + '-' + tourney_id + '.json', 'w') as data_file:
+    with open('tournaments/' + date + ' ' + tourney_data['name'] + '.json', 'w') as data_file:
         json.dump(json_var, data_file, indent=2)
