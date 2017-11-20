@@ -1,5 +1,7 @@
 import json
 import requests
+import os
+import dotenv
 
 
 def json_parser(tournament, date):
@@ -36,8 +38,9 @@ def json_parser(tournament, date):
     return parsed_json
 
 
+dotenv.load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))  # Loading .env
+api_key = os.environ.get('API_KEY')
 while True:
-    api_key = ''
     print('Type q to exit')
     tourney_id = input('enter the tournament id:')
     if tourney_id == 'q':
