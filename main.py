@@ -46,8 +46,15 @@ def print_leaderboard(leaderboard_json):
         print('#' + place + (5 - len(place)) * ' ' + ' ' + name + (max_name_length - len(name) + 2) * ' ' + exposure)
 
 
+def dump_json(filename, data):
+    with open(filename, 'w') as output:
+        json.dump(data, output, indent=2)
+
+
 debug = False  # Changing to True will cause printing out exposure change for each match up
 racers = {}
+seeded_racers = {}
+unseeded_racers = {}
 for infile in sorted(glob.glob('tournaments/*.json')):
     with open(infile) as datafile:
         tournament_data = json.load(datafile)
@@ -58,19 +65,25 @@ for infile in sorted(glob.glob('tournaments/*.json')):
                 print('seeded')
             for i in range(4):
                 calculate_mmr(race, racers)
+            calculate_mmr(race, seeded_racers)
         elif tournament_data['ruleset'] == 'mixed':
             if debug:
                 print('mixed')
             for i in range(2):
                 calculate_mmr(race, racers)
+            calculate_mmr(race, unseeded_racers)
         elif tournament_data['ruleset'] == 'other':
             continue
         else:
             if debug:
                 print('unseeded')
             calculate_mmr(race, racers)
+            calculate_mmr(race, unseeded_racers)
 
 leaderboard = calculate_places(racers)
-with open('leaderboard.json', 'w') as output:
-    json.dump(leaderboard, output, indent=2)
+seeded_leaderboard = calculate_places(seeded_racers)
+unseeded_leaderboard = calculate_places(unseeded_racers)
+dump_json('leaderboard.json', leaderboard)
+dump_json('seeded_leaderboard.json', seeded_leaderboard)
+dump_json('unseeded_leaderboard.json', unseeded_leaderboard)
 print_leaderboard(leaderboard)
