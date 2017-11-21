@@ -23,16 +23,23 @@ def json_parser(tournament, date):
                                             "loser": match_data['player2_id'],
                                             "score": "draw"})
         else:
+            scores = match_data['scores_csv'].split('-')
+            scores.sort(reverse=True)
+            match_score = scores[0] + '-' + scores[1]
             parsed_json["matchups"].append({"winner": match_data['winner_id'],
                                             "loser": match_data['loser_id'],
-                                            "score": match_data['scores_csv']})
+                                            "score": match_score})
+
     for participant in participants:
         participant_id = participant['participant']['id']
+        participant_group_id = participant['participant']['group_player_ids'][0]
         participant_name = participant['participant']['name']
         for match in parsed_json["matchups"]:
-            if match['winner'] == participant_id:
+            winner = match['winner']
+            loser = match['loser']
+            if winner == participant_id or winner == participant_group_id:
                 match['winner'] = participant_name
-            if match['loser'] == participant_id:
+            if loser == participant_id or loser == participant_group_id:
                 match['loser'] = participant_name
     print("json parsed successfully")
     return parsed_json
