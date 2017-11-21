@@ -1,0 +1,90 @@
+{
+  "name": "Pageant Boy 2",
+  "challonge": "http://challonge.com/PageantBoy2",
+  "date": "30-04-2017",
+  "organizer": "StoneAgeMarcus",
+  "description": "A weekend tournament with a twist -- builds are more important than speed",
+  "ruleset": "other",
+  "matchups": [
+    {
+      "winner": "HauntedQuest",
+      "loser": "Jaaski99",
+      "score": "2-1"
+    },
+    {
+      "winner": "tyrannasauruslex",
+      "loser": "Krakenos",
+      "score": "2-1"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "CrafterLynx",
+      "score": "2-1"
+    },
+    {
+      "winner": "SedNegi",
+      "loser": "Noowoo",
+      "score": "2-1"
+    },
+    {
+      "winner": "Thalen22",
+      "loser": "thisguyisbarry",
+      "score": "2-1"
+    },
+    {
+      "winner": "Lobsterostiy",
+      "loser": "ShoottheMoose",
+      "score": "2-0"
+    },
+    {
+      "winner": "Thalen22",
+      "loser": "Lobsterostiy",
+      "score": "draw"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "ceehe",
+      "score": "2-0"
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "Zamiell",
+      "score": "2-1"
+    },
+    {
+      "winner": "Lobsterostiy",
+      "loser": "HauntedQuest",
+      "score": "2-0"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "SedNegi",
+      "score": "2-0"
+    },
+    {
+      "winner": "tyrannasauruslex",
+      "loser": "antizoubilamaka",
+      "score": "2-1"
+    },
+    {
+      "winner": "Thalen22",
+      "loser": "SlashSP",
+      "score": "2-0"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Lobsterostiy",
+      "score": "2-1"
+    },
+    {
+      "winner": "Thalen22",
+      "loser": "tyrannasauruslex",
+      "score": "2-1"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Thalen22",
+      "score": "2-1"
+    }
+  ]
+}
