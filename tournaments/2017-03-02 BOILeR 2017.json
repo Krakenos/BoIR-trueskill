@@ -4,87 +4,87 @@
   "date": "02-03-2017",
   "organizer": "Crumps2",
   "ruleset": "unseeded",
-  "description": "",
+  "description": "Unseeded ruleset with 5 resets per round limit.",
   "matchups": [
     {
       "winner": "thisguyisbarry",
       "loser": "FireOnEarth",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "ProblemsIRL",
       "loser": "ikasperr",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "KazooieGirl",
       "loser": "AkitakaTsuya",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "REXmoreop",
       "loser": "AdmiralBahroo",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "slashSP",
       "loser": "ReVenantGamer",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Cyber_1",
       "loser": "elvencloud",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "CrafterLynx",
       "loser": "ceehe",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Shigan_",
       "loser": "itzasickscot",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "ProblemsIRL",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "REXmoreop",
       "loser": "KazooieGirl",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "slashSP",
       "loser": "Cyber_1",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "CrafterLynx",
       "loser": "Shigan_",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "REXmoreop",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "slashSP",
       "loser": "CrafterLynx",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "slashSP",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "CrafterLynx",
       "loser": "REXmoreop",
-      "score": ""
+      "score": "3-1"
     }
   ]
 }

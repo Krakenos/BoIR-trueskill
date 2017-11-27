@@ -9,37 +9,39 @@
     {
       "winner": "antizoubilamaka",
       "loser": "Dea1h",
-      "score": ""
+      "score": "5-1"
     },
     {
       "winner": "Cyber_1",
       "loser": "GiraffeFizzoid",
-      "score": ""
+      "score": "5-1"
     },
     {
       "winner": "antizoubilamaka",
       "loser": "Cyber_1",
-      "score": ""
+      "score": "5-0"
     },
     {
       "winner": "Dea1h",
       "loser": "GiraffeFizzoid",
-      "score": ""
+      "score": "5-0"
     },
     {
       "winner": "Dea1h",
       "loser": "Cyber_1",
-      "score": ""
+      "score": "5-0",
+      "description": "Forfeit"
     },
     {
       "winner": "Dea1h",
       "loser": "antizoubilamaka",
-      "score": ""
+      "score": "5-4"
     },
     {
       "winner": "Dea1h",
       "loser": "antizoubilamaka",
-      "score": ""
+      "score": "1-0",
+      "description": "Exact score unknown, match not recorded."
     }
   ]
 }

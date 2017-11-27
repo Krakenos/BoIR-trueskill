@@ -4,462 +4,468 @@
   "date": "10-10-2016",
   "organizer": "xUnhingedMoose",
   "ruleset": "seeded",
-  "description": "",
+  "description": "https://docs.google.com/spreadsheets/d/1Kn5xHFrHiQKDutqH3QVyqFETOfWv-pn_kR9UNIFVg7w/edit#gid=1308780392",
   "matchups": [
     {
       "winner": "Xelnas",
       "loser": "antizoubilamaka",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "CRAFTERLYNX",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Zamiell",
       "loser": "Cyber_1",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Thalen22",
       "loser": "stoneagemarcus",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "910dan",
       "loser": "sednegi",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "ceehe",
       "loser": "lexicalpedant",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Krakenos",
       "loser": "starg09",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "tODDlife",
       "loser": "Waltimate",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "Dea1h",
       "loser": "Neg_Eggs",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "deejumbles",
       "loser": "HikariChan73",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Warshoty",
       "loser": "scavenging_mechanic",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Invadertimstreams",
       "loser": "Kanga1981",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "SlashSP",
       "loser": "jaaski99",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Shigan_",
       "loser": "TheMoonSage",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "birdie0",
       "loser": "Sp1kess",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Lobsterosity",
       "loser": "Chance_Eluded",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Chance_Eluded",
       "loser": "starg09",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "lexicalpedant",
       "loser": "Sp1kess",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "sednegi",
       "loser": "jaaski99",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "stoneagemarcus",
       "loser": "Kanga1981",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Cyber_1",
       "loser": "scavenging_mechanic",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "CRAFTERLYNX",
       "loser": "HikariChan73",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Neg_Eggs",
       "loser": "TheMoonSage",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "antizoubilamaka",
       "loser": "Waltimate",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "Dea1h",
       "loser": "Shigan_",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "tODDlife",
       "loser": "Xelnas",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Krakenos",
       "loser": "Lobsterosity",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "ceehe",
       "loser": "birdie0",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "910dan",
       "loser": "SlashSP",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Invadertimstreams",
       "loser": "Thalen22",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Zamiell",
       "loser": "Warshoty",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "deejumbles",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Chance_Eluded",
       "loser": "birdie0",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "SlashSP",
       "loser": "Shigan_",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Warshoty",
       "loser": "Neg_Eggs",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "lexicalpedant",
       "loser": "deejumbles",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "sednegi",
       "loser": "antizoubilamaka",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "stoneagemarcus",
       "loser": "Xelnas",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Cyber_1",
       "loser": "Lobsterosity",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "CRAFTERLYNX",
       "loser": "Thalen22",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "scavenging_mechanic",
       "loser": "TheMoonSage",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "starg09",
       "loser": "Kanga1981",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "jaaski99",
       "loser": "Waltimate",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "Sp1kess",
       "loser": "HikariChan73",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "ceehe",
       "loser": "Invadertimstreams",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Dea1h",
       "loser": "910dan",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Zamiell",
       "loser": "tODDlife",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "Krakenos",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "SlashSP",
       "loser": "Invadertimstreams",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Warshoty",
       "loser": "Chance_Eluded",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "sednegi",
       "loser": "deejumbles",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "tODDlife",
       "loser": "stoneagemarcus",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Cyber_1",
       "loser": "Krakenos",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "910dan",
       "loser": "CRAFTERLYNX",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Thalen22",
       "loser": "Neg_Eggs",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "birdie0",
       "loser": "scavenging_mechanic",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "jaaski99",
       "loser": "Lobsterosity",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Shigan_",
       "loser": "Xelnas",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "lexicalpedant",
       "loser": "antizoubilamaka",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "starg09",
       "loser": "Sp1kess",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "HikariChan73",
       "loser": "Kanga1981",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Zamiell",
       "loser": "Dea1h",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "ceehe",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Chance_Eluded",
       "loser": "jaaski99",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Thalen22",
       "loser": "birdie0",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Shigan_",
       "loser": "CRAFTERLYNX",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "starg09",
       "loser": "Invadertimstreams",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "stoneagemarcus",
       "loser": "deejumbles",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Krakenos",
       "loser": "lexicalpedant",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Lobsterosity",
       "loser": "scavenging_mechanic",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Neg_Eggs",
       "loser": "Sp1kess",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "TheMoonSage",
       "loser": "HikariChan73",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "SlashSP",
       "loser": "tODDlife",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Dea1h",
       "loser": "sednegi",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Cyber_1",
       "loser": "ceehe",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "910dan",
       "loser": "Warshoty",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "thisguyisbarry",
       "loser": "Zamiell",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Shigan_",
       "loser": "sednegi",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "tODDlife",
       "loser": "Chance_Eluded",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Warshoty",
       "loser": "lexicalpedant",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "ceehe",
       "loser": "starg09",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Krakenos",
       "loser": "Thalen22",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "stoneagemarcus",
       "loser": "Lobsterosity",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "CRAFTERLYNX",
       "loser": "jaaski99",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "birdie0",
       "loser": "Invadertimstreams",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Neg_Eggs",
       "loser": "deejumbles",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "scavenging_mechanic",
       "loser": "HikariChan73",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Sp1kess",
       "loser": "TheMoonSage",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Cyber_1",
       "loser": "910dan",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Zamiell",
       "loser": "SlashSP",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Dea1h",
       "loser": "thisguyisbarry",
-      "score": ""
+      "score": "3-0"
     }
   ]
 }

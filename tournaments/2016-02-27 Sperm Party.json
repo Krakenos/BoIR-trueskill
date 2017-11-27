@@ -9,62 +9,63 @@
     {
       "winner": "ThisGuyIsBarry",
       "loser": "Nicoluwu",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Cmondinger",
       "loser": "Thalen22",
-      "score": ""
+      "score": "3-0",
+	  "description": "Forfeit"
     },
     {
       "winner": "DKlaww",
       "loser": "Sillypears",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "CrafterLynx",
       "loser": "Rydyell",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Dadalo1",
       "loser": "SlashSP",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Zamiell",
       "loser": "ThisGuyIsBarry",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "DKlaww",
       "loser": "Cmondinger",
-      "score": ""
+      "score": "3-2"
     },
     {
       "winner": "Antizoubilamaka",
       "loser": "CrafterLynx",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "HauntedQuest",
       "loser": "Dadalo1",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Zamiell",
       "loser": "DKlaww",
-      "score": ""
+      "score": "3-0"
     },
     {
       "winner": "Antizoubilamaka",
       "loser": "HauntedQuest",
-      "score": ""
+      "score": "3-1"
     },
     {
       "winner": "Antizoubilamaka",
       "loser": "Zamiell",
-      "score": ""
+      "score": "3-0"
     }
   ]
 }
