@@ -1,0 +1,365 @@
+{
+  "name": "Binding of Isaac: Tournament Edition 2",
+  "challonge": "http://challonge.com/BITEIsaac2",
+  "date": "02-10-2017",
+  "organizer": "Shigan_",
+  "description": "",
+  "ruleset": "mixed",
+  "matchups": [
+    {
+      "winner": "Ithrandil",
+      "loser": "CaptainIgloo",
+      "score": "3-2"
+    },
+    {
+      "winner": "missingyes",
+      "loser": "Calimero38750",
+      "score": "3-0"
+    },
+    {
+      "winner": "SergeBenamou31",
+      "loser": "Thoday",
+      "score": "3-2"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "Noro_Caster",
+      "score": "3-2"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Ithrandil",
+      "score": "3-0"
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Neg_Eggs",
+      "score": "3-2"
+    },
+    {
+      "winner": "910dan",
+      "loser": "Desisto_",
+      "score": "3-0"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Shootthemoose",
+      "score": "3-0"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "missingyes",
+      "score": "3-0"
+    },
+    {
+      "winner": "Brother Chen",
+      "loser": "NeNeSSchaton",
+      "score": "3-0"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "djforceps",
+      "score": "3-0"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "Hikarichan73",
+      "score": "3-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "SergeBenamou31",
+      "score": "3-1"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "Nariom",
+      "score": "3-1"
+    },
+    {
+      "winner": "Flaw456",
+      "loser": "Vin25cent",
+      "score": "3-0"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "Venom",
+      "score": "3-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Gamonymous",
+      "score": "3-1"
+    },
+    {
+      "winner": "TheMoonSage",
+      "loser": "MrPopoche",
+      "score": "3-2"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Moette",
+      "score": "3-0"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Smushis",
+      "score": "3-0"
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "Zamiell",
+      "score": "3-0"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "910dan",
+      "score": "3-1"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Brother Chen",
+      "score": "3-0"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "StoneAgeMarcus",
+      "score": "3-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Sakk_",
+      "score": "3-1"
+    },
+    {
+      "winner": "Flaw456",
+      "loser": "PassionDrama",
+      "score": "3-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "TheMoonSage",
+      "score": "3-0"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "leo_ze_tron",
+      "score": "3-1"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Cayoche",
+      "score": "3-0"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "CrafterLynx",
+      "score": "3-2"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Flaw456",
+      "score": "3-1"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "thereisnofuture",
+      "score": "3-0"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "HauntedQuest",
+      "score": "3-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "SlashSP",
+      "score": "3-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "ReidMercury__",
+      "score": "3-2"
+    },
+    {
+      "winner": "CaptainIgloo",
+      "loser": "Smushis",
+      "score": "3-0"
+    },
+    {
+      "winner": "Venom",
+      "loser": "Calimero38750",
+      "score": "3-0"
+    },
+    {
+      "winner": "Thoday",
+      "loser": "Hikarichan73",
+      "score": "3-2"
+    },
+    {
+      "winner": "Noro_Caster",
+      "loser": "Shootthemoose",
+      "score": "3-0"
+    },
+    {
+      "winner": "CaptainIgloo",
+      "loser": "Moette",
+      "score": "3-0"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "MrPopoche",
+      "score": "3-2"
+    },
+    {
+      "winner": "Venom",
+      "loser": "Vin25cent",
+      "score": "3-0"
+    },
+    {
+      "winner": "Nariom",
+      "loser": "SergeBenamou31",
+      "score": "3-1"
+    },
+    {
+      "winner": "Thoday",
+      "loser": "djforceps",
+      "score": "3-0"
+    },
+    {
+      "winner": "missingyes",
+      "loser": "NeNeSSchaton",
+      "score": "3-1"
+    },
+    {
+      "winner": "Noro_Caster",
+      "loser": "Desisto_",
+      "score": "3-2"
+    },
+    {
+      "winner": "Neg_Eggs",
+      "loser": "Ithrandil",
+      "score": "3-2"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "CaptainIgloo",
+      "score": "3-0"
+    },
+    {
+      "winner": "Brother Chen",
+      "loser": "Gamonymous",
+      "score": "3-1"
+    },
+    {
+      "winner": "910dan",
+      "loser": "Venom",
+      "score": "3-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Nariom",
+      "score": "3-0"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Thoday",
+      "score": "3-1"
+    },
+    {
+      "winner": "missingyes",
+      "loser": "TheMoonSage",
+      "score": "3-2"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "Noro_Caster",
+      "score": "3-0"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "Neg_Eggs",
+      "score": "3-0"
+    },
+    {
+      "winner": "Brother Chen",
+      "loser": "StoneAgeMarcus",
+      "score": "3-2"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "910dan",
+      "score": "3-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "missingyes",
+      "score": "3-1"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "PassionDrama",
+      "score": "3-1"
+    },
+    {
+      "winner": "Brother Chen",
+      "loser": "Flaw456",
+      "score": "3-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "thereisnofuture",
+      "score": "3-2"
+    },
+    {
+      "winner": "Cayoche",
+      "loser": "leo_ze_tron",
+      "score": "3-0"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Sakk_",
+      "score": "3-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Brother Chen",
+      "score": "3-1"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Cayoche",
+      "score": "3-1"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "HauntedQuest",
+      "score": "3-2"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "CrafterLynx",
+      "score": "3-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "SlashSP",
+      "score": "3-1"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Zamiell",
+      "score": "3-1"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Dea1h",
+      "score": "3-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "ReidMercury__",
+      "score": "3-1"
+    }
+  ]
+}
