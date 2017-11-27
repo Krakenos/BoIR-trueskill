@@ -32,14 +32,14 @@ def json_parser(tournament, date):
 
     for participant in participants:
         participant_id = participant['participant']['id']
-        participant_group_id = participant['participant']['group_player_ids'][0]
+        participant_group_id = participant['participant']['group_player_ids']
         participant_name = participant['participant']['name']
         for match in parsed_json['matchups']:
             winner = match['winner']
             loser = match['loser']
-            if winner == participant_id or winner == participant_group_id:
+            if winner == participant_id or winner in participant_group_id:
                 match['winner'] = participant_name
-            if loser == participant_id or loser == participant_group_id:
+            if loser == participant_id or loser in participant_group_id:
                 match['loser'] = participant_name
     print('json parsed successfully')
     return parsed_json
@@ -57,5 +57,7 @@ while True:
     tourney_data = tourney['tournament']
     date = tourney_data['started_at'].split('T', 1)[0]  # YYYY-MM-DD
     json_var = json_parser(tourney_data, date)
-    with open('tournaments/' + date + ' ' + tourney_data['name'] + '.json', 'w') as data_file:
+    print(json_var)
+    with open('tournaments/' + date + ' ' + ''.join(e for e in tourney_data['name']
+                                                    if e.isalnum()) + '.json', 'w') as data_file:
         json.dump(json_var, data_file, indent=2)
