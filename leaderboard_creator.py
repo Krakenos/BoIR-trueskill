@@ -80,10 +80,10 @@ for infile in sorted(glob.glob('tournaments/*.json')):
             calculate_mmr(race, racers)
             calculate_mmr(race, unseeded_racers)
 
-leaderboard = calculate_places(racers)
+mixed_leaderboard = calculate_places(racers)
 seeded_leaderboard = calculate_places(seeded_racers)
 unseeded_leaderboard = calculate_places(unseeded_racers)
-dump_json('leaderboards/leaderboard.json', leaderboard)
+dump_json('leaderboards/mixed_leaderboard.json', mixed_leaderboard)
 dump_json('leaderboards/seeded_leaderboard.json', seeded_leaderboard)
 dump_json('leaderboards/unseeded_leaderboard.json', unseeded_leaderboard)
-print_leaderboard(leaderboard)
+print_leaderboard(mixed_leaderboard)
