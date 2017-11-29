@@ -12,9 +12,18 @@ def calculate_places(racers_dict):
     return leaderboards_list
 
 
+def name_check(name, racers_dict):
+    for key, value in racers_dict.items():
+        if name.lower() == key.lower():
+            if name != key:
+                print(f'WARNING: expected name {key} got {name} in {infile} file')
+            return key
+    return name
+
+
 def calculate_mmr(matchup, racers_list):
-    winner = matchup['winner'].lower()
-    loser = matchup['loser'].lower()
+    winner = name_check(matchup['winner'], racers_list)
+    loser = name_check(matchup['loser'], racers_list)
     if winner not in racers_list:
         racers_list[winner] = Rating(25)
     if loser not in racers_list:
