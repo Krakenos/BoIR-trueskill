@@ -7,8 +7,8 @@
   "description": "",
   "matchups": [
     {
-      "winner": "ThisGuyIsBarry",
-      "loser": "Nicoluwu",
+      "winner": "thisguyisbarry",
+      "loser": "nicoluwu",
       "score": "3-2"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "winner": "DKlaww",
-      "loser": "Sillypears",
+      "loser": "sillypears",
       "score": "3-2"
     },
     {
@@ -28,13 +28,13 @@
       "score": "3-0"
     },
     {
-      "winner": "Dadalo1",
+      "winner": "dadalo1",
       "loser": "SlashSP",
       "score": "3-2"
     },
     {
       "winner": "Zamiell",
-      "loser": "ThisGuyIsBarry",
+      "loser": "thisguyisbarry",
       "score": "3-2"
     },
     {
@@ -43,13 +43,13 @@
       "score": "3-2"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamaka",
       "loser": "CrafterLynx",
       "score": "3-0"
     },
     {
       "winner": "HauntedQuest",
-      "loser": "Dadalo1",
+      "loser": "dadalo1",
       "score": "3-0"
     },
     {
@@ -58,12 +58,12 @@
       "score": "3-0"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamaka",
       "loser": "HauntedQuest",
       "score": "3-1"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamaka",
       "loser": "Zamiell",
       "score": "3-0"
     }

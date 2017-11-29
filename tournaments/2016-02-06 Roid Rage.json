@@ -7,8 +7,8 @@
   "description": "",
   "matchups": [
     {
-      "winner": "giraffeFizzoid",
-      "loser": "ImWayToPunny",
+      "winner": "giraffefizzoid",
+      "loser": "imwaytopunny",
       "score": "3-1"
     },
     {
@@ -27,7 +27,7 @@
       "score": "3-2"
     },
     {
-      "winner": "giraffeFizzoid",
+      "winner": "giraffefizzoid",
       "loser": "Zamiell",
       "score": "3-1"
     },
@@ -38,7 +38,7 @@
     },
     {
       "winner": "ProblemsIRL",
-      "loser": "giraffeFizzoid",
+      "loser": "giraffefizzoid",
       "score": "4-2"
     }
   ]

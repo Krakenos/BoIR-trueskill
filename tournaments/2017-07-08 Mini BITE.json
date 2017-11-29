@@ -7,18 +7,18 @@
   "description": "",
   "matchups": [
     {
-      "winner": "Thisguyisbarry",
-      "loser": "DJForceps",
+      "winner": "thisguyisbarry",
+      "loser": "djforceps",
       "score": "3-0"
     },
     {
-      "winner": "Thereisnofuture",
+      "winner": "thereisnofuture",
       "loser": "Tanook_Leduc",
       "score": "3-0"
     },
     {
-      "winner": "Antizoubilamaka",
-      "loser": "Leo_ze_tron",
+      "winner": "antizoubilamaka",
+      "loser": "leo_ze_tron",
       "score": "3-0"
     },
     {
@@ -47,13 +47,13 @@
       "score": "3-2"
     },
     {
-      "winner": "Thereisnofuture",
-      "loser": "Thisguyisbarry",
+      "winner": "thereisnofuture",
+      "loser": "thisguyisbarry",
       "score": "3-0"
     },
     {
       "winner": "ReidMercury__",
-      "loser": "Antizoubilamaka",
+      "loser": "antizoubilamaka",
       "score": "3-1"
     },
     {
@@ -67,7 +67,7 @@
       "score": "3-1"
     },
     {
-      "winner": "Thereisnofuture",
+      "winner": "thereisnofuture",
       "loser": "ReidMercury__",
       "score": "4-3"
     },
@@ -78,7 +78,7 @@
     },
     {
       "winner": "CrafterLynx",
-      "loser": "Thereisnofuture",
+      "loser": "thereisnofuture",
       "score": "4-3"
     }
   ]

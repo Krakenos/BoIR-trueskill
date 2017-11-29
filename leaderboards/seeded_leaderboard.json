@@ -1,6 +1,6 @@
 [
   {
-    "name": "dea1h",
+    "name": "Dea1h",
     "exposure": 34.85945860924318,
     "mu": 39.548445616259045,
     "sigma": 1.5629956690052895,
@@ -14,14 +14,14 @@
     "place": 2
   },
   {
-    "name": "cyber_1",
+    "name": "Cyber_1",
     "exposure": 32.74754530252338,
     "mu": 39.027588353916904,
     "sigma": 2.0933476837978433,
     "place": 3
   },
   {
-    "name": "zamiell",
+    "name": "Zamiell",
     "exposure": 30.20857006056088,
     "mu": 34.97318403315227,
     "sigma": 1.5882046575304634,
@@ -35,14 +35,14 @@
     "place": 5
   },
   {
-    "name": "hauntedquest",
+    "name": "HauntedQuest",
     "exposure": 26.86861651491718,
     "mu": 33.6983663079836,
     "sigma": 2.2765832643554735,
     "place": 6
   },
   {
-    "name": "reidmercury__",
+    "name": "ReidMercury__",
     "exposure": 26.689173177242616,
     "mu": 34.77829307368829,
     "sigma": 2.696373298815224,
@@ -56,21 +56,21 @@
     "place": 8
   },
   {
-    "name": "shigan_",
+    "name": "Shigan_",
     "exposure": 25.734108289894635,
     "mu": 31.96683602846158,
     "sigma": 2.0775759128556475,
     "place": 9
   },
   {
-    "name": "slashsp",
+    "name": "SlashSP",
     "exposure": 24.98594032860143,
     "mu": 31.056919036980112,
     "sigma": 2.0236595694595603,
     "place": 10
   },
   {
-    "name": "crafterlynx",
+    "name": "CrafterLynx",
     "exposure": 24.81117888869035,
     "mu": 32.24741196091958,
     "sigma": 2.478744357409743,
@@ -84,7 +84,7 @@
     "place": 12
   },
   {
-    "name": "warshoty",
+    "name": "Warshoty",
     "exposure": 23.49684744750629,
     "mu": 32.01434998673457,
     "sigma": 2.8391675130760934,
@@ -98,21 +98,21 @@
     "place": 14
   },
   {
-    "name": "krakenos",
+    "name": "Krakenos",
     "exposure": 22.728429165366755,
     "mu": 30.339972166800116,
     "sigma": 2.5371810004777875,
     "place": 15
   },
   {
-    "name": "brother chen",
+    "name": "Brother Chen",
     "exposure": 22.23749412095291,
     "mu": 30.216907195880946,
     "sigma": 2.6598043583093456,
     "place": 16
   },
   {
-    "name": "passiondrama",
+    "name": "PassionDrama",
     "exposure": 22.04016853361358,
     "mu": 29.489740892837368,
     "sigma": 2.4831907864079295,
@@ -126,35 +126,35 @@
     "place": 18
   },
   {
-    "name": "greed__",
+    "name": "Greed__",
     "exposure": 18.98578105345513,
     "mu": 32.19751738033338,
     "sigma": 4.403912108959417,
     "place": 19
   },
   {
-    "name": "augo48",
+    "name": "Augo48",
     "exposure": 18.97006339531851,
     "mu": 33.663615629953625,
     "sigma": 4.897850744878372,
     "place": 20
   },
   {
-    "name": "toddlife",
+    "name": "tODDlife",
     "exposure": 18.813622948092508,
     "mu": 29.479375547337458,
     "sigma": 3.555250866414983,
     "place": 21
   },
   {
-    "name": "dklaww",
+    "name": "DKlaww",
     "exposure": 18.617558598028122,
     "mu": 31.63365062767805,
     "sigma": 4.338697343216643,
     "place": 22
   },
   {
-    "name": "itsscion",
+    "name": "ItsScion",
     "exposure": 18.02744035314606,
     "mu": 30.88015973954824,
     "sigma": 4.284239795467394,
@@ -168,21 +168,21 @@
     "place": 24
   },
   {
-    "name": "stoneagemarcus",
+    "name": "StoneAgeMarcus",
     "exposure": 17.312110663707763,
     "mu": 27.065794564548927,
     "sigma": 3.251227966947054,
     "place": 25
   },
   {
-    "name": "thalen22",
+    "name": "Thalen22",
     "exposure": 17.179112069877622,
     "mu": 25.51424372307355,
     "sigma": 2.7783772177319768,
     "place": 26
   },
   {
-    "name": "ou_j",
+    "name": "Ou_J",
     "exposure": 16.995468259186747,
     "mu": 27.22550208168749,
     "sigma": 3.410011274166915,
@@ -196,14 +196,14 @@
     "place": 28
   },
   {
-    "name": "sednegi",
+    "name": "SedNegi",
     "exposure": 16.64446345111164,
     "mu": 28.35332865032701,
     "sigma": 3.9029550664051236,
     "place": 29
   },
   {
-    "name": "blumkin_idaho",
+    "name": "Blumkin_Idaho",
     "exposure": 16.0778247847794,
     "mu": 27.680590753637457,
     "sigma": 3.8675886562860193,
@@ -217,28 +217,28 @@
     "place": 31
   },
   {
-    "name": "nariom",
+    "name": "Nariom",
     "exposure": 14.07088239423826,
     "mu": 24.541118657976188,
     "sigma": 3.4900787545793093,
     "place": 32
   },
   {
-    "name": "braintm",
+    "name": "BrainTM",
     "exposure": 13.502100305577759,
     "mu": 29.979672024939017,
     "sigma": 5.492523906453753,
     "place": 33
   },
   {
-    "name": "xelnas",
+    "name": "Xelnas",
     "exposure": 13.441147635099139,
     "mu": 24.564123906665227,
     "sigma": 3.707658757188696,
     "place": 34
   },
   {
-    "name": "zazima",
+    "name": "Zazima",
     "exposure": 13.016697237153496,
     "mu": 24.39723623513489,
     "sigma": 3.7935129993271315,
@@ -252,42 +252,42 @@
     "place": 36
   },
   {
-    "name": "chance_eluded",
+    "name": "Chance_Eluded",
     "exposure": 12.522930727075194,
     "mu": 23.1381184496393,
     "sigma": 3.538395907521369,
     "place": 37
   },
   {
-    "name": "invadertimstreams",
+    "name": "InvaderTimStreams",
     "exposure": 11.927262903851233,
     "mu": 22.059867507099884,
     "sigma": 3.3775348677495507,
     "place": 38
   },
   {
-    "name": "shootthemoose",
+    "name": "Shootthemoose",
     "exposure": 11.728969056568413,
     "mu": 23.29895206584784,
     "sigma": 3.8566610030931416,
     "place": 39
   },
   {
-    "name": "cmondinger",
+    "name": "Cmondinger",
     "exposure": 11.356203453249876,
     "mu": 28.199274379493303,
     "sigma": 5.614356975414475,
     "place": 40
   },
   {
-    "name": "smoomy",
+    "name": "Smoomy",
     "exposure": 10.779665368661053,
     "mu": 21.697494231152298,
     "sigma": 3.639276287497082,
     "place": 41
   },
   {
-    "name": "neg_eggs",
+    "name": "Neg_Eggs",
     "exposure": 10.532913603563664,
     "mu": 21.605193405842428,
     "sigma": 3.6907599340929216,
@@ -301,21 +301,21 @@
     "place": 43
   },
   {
-    "name": "lobsterosity",
+    "name": "Lobsterosity",
     "exposure": 9.148834697151115,
     "mu": 21.26277025302418,
     "sigma": 4.037978518624355,
     "place": 44
   },
   {
-    "name": "a discount",
+    "name": "A Discount",
     "exposure": 8.51800810565679,
     "mu": 20.264606343660272,
     "sigma": 3.915532746001161,
     "place": 45
   },
   {
-    "name": "jesuitical",
+    "name": "Jesuitical",
     "exposure": 7.842383993714847,
     "mu": 21.570847067991085,
     "sigma": 4.576154358092079,
@@ -329,42 +329,42 @@
     "place": 47
   },
   {
-    "name": "sp1kess",
+    "name": "Sp1kess",
     "exposure": 7.658739807485427,
     "mu": 17.85799057807437,
     "sigma": 3.3997502568629816,
     "place": 48
   },
   {
-    "name": "fisshy_",
+    "name": "Fisshy_",
     "exposure": 6.999474346776314,
     "mu": 25.71898187676572,
     "sigma": 6.239835843329803,
     "place": 49
   },
   {
-    "name": "nenessquick",
+    "name": "NeNeSSquick",
     "exposure": 6.999474346776314,
     "mu": 25.71898187676572,
     "sigma": 6.239835843329803,
     "place": 50
   },
   {
-    "name": "shinyriolu21",
+    "name": "ShinyRiolu21",
     "exposure": 6.999474346776314,
     "mu": 25.71898187676572,
     "sigma": 6.239835843329803,
     "place": 51
   },
   {
-    "name": "karolmofnc",
+    "name": "Karolmofnc",
     "exposure": 6.250746638064818,
     "mu": 25.045753316709387,
     "sigma": 6.265002226214856,
     "place": 52
   },
   {
-    "name": "kriwm",
+    "name": "Kriwm",
     "exposure": 6.159240004646037,
     "mu": 24.954246683290606,
     "sigma": 6.265002226214856,
@@ -378,14 +378,14 @@
     "place": 54
   },
   {
-    "name": "sakk_",
+    "name": "Sakk_",
     "exposure": 5.905888564839977,
     "mu": 24.58046578344441,
     "sigma": 6.224859072868145,
     "place": 55
   },
   {
-    "name": "themoonsage",
+    "name": "TheMoonSage",
     "exposure": 4.300491490902596,
     "mu": 15.95838119090525,
     "sigma": 3.885963233334218,
@@ -406,7 +406,7 @@
     "place": 58
   },
   {
-    "name": "hikarichan73",
+    "name": "Hikarichan73",
     "exposure": 2.4068576177085372,
     "mu": 12.219127608309362,
     "sigma": 3.2707566635336085,
@@ -434,21 +434,21 @@
     "place": 62
   },
   {
-    "name": "dune_1008",
+    "name": "Dune_1008",
     "exposure": 1.0886138539171348,
     "mu": 22.93586919532059,
     "sigma": 7.282418447134484,
     "place": 63
   },
   {
-    "name": "thereisnotfuture",
+    "name": "ThereIsNotFuture",
     "exposure": 1.007768357109729,
     "mu": 21.665358519555966,
     "sigma": 6.885863387482079,
     "place": 64
   },
   {
-    "name": "blumpkin_idaho",
+    "name": "Blumpkin_Idaho",
     "exposure": 0.6369045908536783,
     "mu": 20.63790203357486,
     "sigma": 6.666999147573727,
@@ -462,70 +462,70 @@
     "place": 66
   },
   {
-    "name": "tanook_leduc",
+    "name": "Tanook_Leduc",
     "exposure": 0.21511087852122301,
     "mu": 19.373044086605276,
     "sigma": 6.385977736028018,
     "place": 67
   },
   {
-    "name": "drathiangull",
+    "name": "drathianGull",
     "exposure": -0.2699629801513588,
     "mu": 20.784001672645854,
     "sigma": 7.017988217599071,
     "place": 68
   },
   {
-    "name": "rebornforhoxton",
+    "name": "RebornForHoxton",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 69
   },
   {
-    "name": "astrodongs",
+    "name": "ASTRODONGS",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 70
   },
   {
-    "name": "staekk",
+    "name": "Staekk",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 71
   },
   {
-    "name": "murrayg1993",
+    "name": "Murrayg1993",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 72
   },
   {
-    "name": "thepuffinpunk",
+    "name": "ThePuffinPunk",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 73
   },
   {
-    "name": "itzsuperr",
+    "name": "itzSuperr",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 74
   },
   {
-    "name": "black_yuu",
+    "name": "Black_yuu",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 75
   },
   {
-    "name": "bindingofwilson",
+    "name": "Bindingofwilson",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
@@ -539,7 +539,7 @@
     "place": 77
   },
   {
-    "name": "gsrv",
+    "name": "gSrV",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
@@ -567,56 +567,56 @@
     "place": 81
   },
   {
-    "name": "takumashii",
+    "name": "Takumashii",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 82
   },
   {
-    "name": "cayoche",
+    "name": "Cayoche",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 83
   },
   {
-    "name": "redstonemenace",
+    "name": "RedstoneMenace",
     "exposure": -0.910258781977749,
     "mu": 20.604167980000835,
     "sigma": 7.171475587326195,
     "place": 84
   },
   {
-    "name": "noowoo",
+    "name": "Noowoo",
     "exposure": -1.0278016520199706,
     "mu": 17.731623866931837,
     "sigma": 6.253141839650603,
     "place": 85
   },
   {
-    "name": "rydyell",
+    "name": "Rydyell",
     "exposure": -1.3488043448048295,
     "mu": 18.04281876924262,
     "sigma": 6.463874371349149,
     "place": 86
   },
   {
-    "name": "waltimate",
+    "name": "Waltimate",
     "exposure": -2.5675190608632885,
     "mu": 13.11906545853428,
     "sigma": 5.228861506465856,
     "place": 87
   },
   {
-    "name": "anuvys",
+    "name": "Anuvys",
     "exposure": -2.622782667536363,
     "mu": 14.326320840524424,
     "sigma": 5.649701169353596,
     "place": 88
   },
   {
-    "name": "kanga1981",
+    "name": "Kanga1981",
     "exposure": -2.948340030704017,
     "mu": 11.29404387707263,
     "sigma": 4.747461302592216,

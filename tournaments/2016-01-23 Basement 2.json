@@ -8,7 +8,7 @@
   "matchups": [
     {
       "winner": "PK_Antifreeze",
-      "loser": "Deejumbles",
+      "loser": "deejumbles",
       "score": "2-0"
     },
     {
@@ -42,7 +42,7 @@
       "score": "2-1"
     },
     {
-      "winner": "NeNessQuick",
+      "winner": "NeNeSSquick",
       "loser": "ParadoxQuine",
       "score": "2-0"
     },
@@ -62,7 +62,7 @@
       "score": "2-0"
     },
     {
-      "winner": "NeNessQuick",
+      "winner": "NeNeSSquick",
       "loser": "TheMoonSage",
       "score": "2-0"
     },
@@ -72,13 +72,13 @@
       "score": "2-0"
     },
     {
-      "winner": "NeNessQuick",
+      "winner": "NeNeSSquick",
       "loser": "CrafterLynx",
       "score": "2-1"
     },
     {
       "winner": "ambidex999",
-      "loser": "NeNessQuick",
+      "loser": "NeNeSSquick",
       "score": "3-2"
     }
   ]

@@ -7,28 +7,28 @@
   "description": "",
   "matchups": [
     {
-      "winner": "Alwaysboredkb21",
+      "winner": "AlwaysBoredKB21",
       "loser": "KitsuneWynterGames",
       "score": "1-0"
     },
     {
       "winner": "EladDifficult",
-      "loser": "CeeHe",
+      "loser": "ceehe",
       "score": "1-0"
     },
     {
       "winner": "NebularView",
-      "loser": "Nicoluwu",
+      "loser": "nicoluwu",
       "score": "1-0"
     },
     {
       "winner": "ProblemsIRL",
-      "loser": "Alwaysboredkb21",
+      "loser": "AlwaysBoredKB21",
       "score": "2-1"
     },
     {
       "winner": "BrainTM",
-      "loser": "dea1h",
+      "loser": "Dea1h",
       "score": "2-1"
     },
     {
@@ -37,7 +37,7 @@
       "score": "2-0"
     },
     {
-      "winner": "Ou_j",
+      "winner": "Ou_J",
       "loser": "FiveMoreMinutes",
       "score": "2-0"
     },
@@ -47,7 +47,7 @@
       "score": "2-0"
     },
     {
-      "winner": "hauntedquest",
+      "winner": "HauntedQuest",
       "loser": "Peppicx",
       "score": "2-0"
     },
@@ -67,14 +67,14 @@
       "score": "2-1"
     },
     {
-      "winner": "Ou_j",
+      "winner": "Ou_J",
       "loser": "antizoubilamaka",
       "score": "2-0",
 	  "description": "Forfeit"
     },
     {
       "winner": "Cyber_1",
-      "loser": "hauntedquest",
+      "loser": "HauntedQuest",
       "score": "2-0"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "winner": "BrainTM",
-      "loser": "Ou_j",
+      "loser": "Ou_J",
       "score": "2-0",
 	  "description": "guessed from the bracket semi-finals were still bo3 due to inconsistent scoring between them"
     },
