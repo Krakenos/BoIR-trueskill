@@ -4,6 +4,8 @@ from trueskill import Rating, rate_1vs1
 
 debug = False  # Changing to True will cause printing out exposure change for each match up
 current_file = ''  # Global variable to track which file is being processed, used in name_check function
+calculate_per_round = False
+seeded_multiplier = 4
 
 
 def main():
@@ -24,22 +26,36 @@ def main():
             if tournament_data['ruleset'] == 'seeded':
                 if debug:
                     print('seeded')
-                for i in range(4):
-                    calculate_mmr(race, racers)
-                calculate_mmr(race, seeded_racers)
+                for i in range(seeded_multiplier):
+                    if calculate_per_round is True:
+                        mmr_per_round(race, racers, False)
+                    else:
+                        calculate_mmr(race, racers)
+                if calculate_per_round is True:
+                    mmr_per_round(race, seeded_racers, False)
+                else:
+                    calculate_mmr(race, seeded_racers)
             elif tournament_data['ruleset'] == 'mixed':
                 if debug:
                     print('mixed')
-                for i in range(2):
-                    calculate_mmr(race, racers)
-                calculate_mmr(race, unseeded_racers)
+                if calculate_per_round is True:
+                    mmr_per_round(race, racers, True)
+                else:
+                    for i in range(2):
+                        calculate_mmr(race, racers)
+                    calculate_mmr(race, unseeded_racers)
+
             elif tournament_data['ruleset'] == 'other':
                 continue
             else:
                 if debug:
                     print('unseeded')
-                calculate_mmr(race, racers)
-                calculate_mmr(race, unseeded_racers)
+                if calculate_per_round is True:
+                    mmr_per_round(race, racers, False)
+                    mmr_per_round(race, unseeded_racers, False)
+                else:
+                    calculate_mmr(race, racers)
+                    calculate_mmr(race, unseeded_racers)
 
     mixed_leaderboard = calculate_places(racers)
     seeded_leaderboard = calculate_places(seeded_racers)
@@ -86,7 +102,6 @@ def calculate_mmr(matchup, racers_list):
         racers_list[winner], racers_list[loser] = rate_1vs1(racers_list[winner], racers_list[loser])
 
     if debug:
-
         # Printing out every change in the exposure value
         print(winner + ' ' + loser + ' ' + str(racers_list[winner].exposure) + ' ' + str(
             racers_list[loser].exposure) + ' +' + str(
@@ -113,6 +128,35 @@ def print_leaderboard(leaderboard_json):
 def dump_json(filename, data):
     with open(filename, 'w') as output:
         json.dump(data, output, indent=2)
+
+
+def mmr_per_round(race, racers_dict, mixed_flag=False):
+    winner = name_check(race['winner'], racers_dict)
+    loser = name_check(race['loser'], racers_dict)
+    if winner not in racers_dict:
+        racers_dict[winner] = Rating(25)
+    if loser not in racers_dict:
+        racers_dict[loser] = Rating(25)
+    if race['score'] != 'draw':
+        if mixed_flag is False:
+            scores = race['score'].split('-')
+            for i in range(int(scores[1])):
+                racers_dict[loser], racers_dict[winner] = rate_1vs1(racers_dict[loser], racers_dict[winner])
+            for i in range(int(scores[0])):
+                racers_dict[winner], racers_dict[loser] = rate_1vs1(racers_dict[winner], racers_dict[loser])
+        else:
+            for round in race['ruleset_per_round']:
+                if round['ruleset'] == 'seeded':
+                    for i in range(seeded_multiplier):
+                        if winner == round['winner']:
+                            racers_dict[winner], racers_dict[loser] = rate_1vs1(racers_dict[winner], racers_dict[loser])
+                        else:
+                            racers_dict[loser], racers_dict[winner] = rate_1vs1(racers_dict[loser], racers_dict[winner])
+                else:
+                    if winner == round['winner']:
+                        racers_dict[winner], racers_dict[loser] = rate_1vs1(racers_dict[winner], racers_dict[loser])
+                    else:
+                        racers_dict[loser], racers_dict[winner] = rate_1vs1(racers_dict[loser], racers_dict[winner])
 
 
 if __name__ == '__main__':
