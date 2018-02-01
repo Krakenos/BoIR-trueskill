@@ -63,7 +63,8 @@ def json_parser(tournament, date):
         participant_id = participant['participant']['id']
         participant_group_id = participant['participant']['group_player_ids']
         participant_name = participant['participant']['name']
-
+        if participant_name == '':  # Sometimes name is empty because it's tied to challonge account
+            participant_name = participant['participant']['challonge_username']
         # Replacing id's with player names in the parsed_json
         for match in parsed_json['matchups']:
             winner = match['winner']
