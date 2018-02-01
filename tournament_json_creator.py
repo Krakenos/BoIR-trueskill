@@ -37,7 +37,7 @@ def json_parser(tournament, date):
                    'organizer': '',
                    'ruleset': '',
                    'description': '',
-                   'videos': '',
+                   'videos': [],
                    'matchups': []
                    }
     for match in matches:
