@@ -37,7 +37,7 @@
       "url": "https://www.twitch.tv/videos/179235160"
     },
     {
-      "description": "HauntedQuest vs Shootthemoose",
+      "description": "HauntedQuest vs xUnhingedMoose",
       "url": "https://www.twitch.tv/videos/182626286"
     },
     {
@@ -161,7 +161,7 @@
       "url": "https://www.twitch.tv/videos/181280992"
     },
     {
-      "description": "Shootthemoose VS Noro_Caster",
+      "description": "xUnhingedMoose VS Noro_Caster",
       "url": "https://www.twitch.tv/videos/183776859"
     },
     {
@@ -437,7 +437,7 @@
     },
     {
       "winner": "HauntedQuest",
-      "loser": "Shootthemoose",
+      "loser": "xUnhingedMoose",
       "score": "3-0",
       "ruleset_per_round": [
         {
@@ -1102,7 +1102,7 @@
     },
     {
       "winner": "Noro_Caster",
-      "loser": "Shootthemoose",
+      "loser": "xUnhingedMoose",
       "score": "3-0",
       "ruleset_per_round": [
         {
