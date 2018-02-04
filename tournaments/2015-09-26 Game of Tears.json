@@ -4,10 +4,55 @@
   "challonge": "http://challonge.com/GameOfTears",
   "date": "26-09-2015",
   "notability": "minor",
-  "organizer": "NuRelic",
+  "organizer": "NuRelic, Oh_My_Goth_, ErBear_",
   "ruleset": "diversity",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Game of Tears Play-in #1 (Sillypears vs Scyther159)",
+      "url": "https://www.twitch.tv/videos/17784325"
+    },
+    {
+      "description": "Game of Tears! Round 1 (Part 1)",
+      "url": "https://www.twitch.tv/videos/17954471"
+    },
+    {
+      "description": "Game of Tears! Round 1 (Part 2)",
+      "url": "https://www.twitch.tv/videos/17954632"
+    },
+    {
+      "description": "CrazyEightsFan69 vs. TheGreatZiggyny",
+      "url": "https://www.twitch.tv/videos/19533087"
+    },
+    {
+      "description": "ProblemsIRL vs. Fisshy_",
+      "url": "https://www.twitch.tv/videos/19533604"
+    },
+    {
+      "description": "Zamiell vs. HauntedQuest",
+      "url": "https://www.twitch.tv/videos/19533944"
+    },
+    {
+      "description": "NebularView vs. Varney_93",
+      "url": "https://www.twitch.tv/videos/19534140"
+    },
+    {
+      "description": "CrazyEightsFan69 vs. HauntedQuest",
+      "url": "https://www.twitch.tv/videos/19534414"
+    },
+    {
+      "description": "Fisshy_ vs. NebularView",
+      "url": "https://www.twitch.tv/videos/19534639"
+    },
+    {
+      "description": "HauntedQuest vs. NebularView",
+      "url": "https://www.twitch.tv/videos/19534843"
+    },
+    {
+      "description": "CrazyEightsFan69 vs. Fisshy_",
+      "url": "https://www.twitch.tv/videos/19535004"
+    }
+  ],
   "matchups": [
     {
       "winner": "Scyther159",

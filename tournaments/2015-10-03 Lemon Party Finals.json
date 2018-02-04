@@ -7,7 +7,32 @@
   "organizer": "Zamiell",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Finals - MolochBob vs ConnorB",
+      "url": "https://www.twitch.tv/videos/21062994"
+    },
+    {
+      "description": "Finals - Imwaytopunny vs Hyphenated (part 1)",
+      "url": "https://www.twitch.tv/videos/21101978"
+    },
+    {
+      "description": "Finals - Imwaytopunny vs Mikeylikeslt",
+      "url": "https://www.twitch.tv/videos/21101807"
+    },
+    {
+      "description": "Finals - Imwaytopunny vs Hyphenated (part 1)",
+      "url": "https://www.twitch.tv/videos/21102004"
+    },
+    {
+      "description": "Lemon League Championship (Day 1 - Part 1)",
+      "url": "https://www.twitch.tv/videos/20839473"
+    },
+    {
+      "description": "Lemon League Championship (Day 1 - Part 2)",
+      "url": "https://www.twitch.tv/videos/20839415"
+    }
+  ],
   "matchups": [
     {
       "winner": "ProblemsIRL",

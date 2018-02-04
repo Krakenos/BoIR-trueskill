@@ -7,7 +7,236 @@
   "organizer": "Shigan_",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Zazima VS Massiste",
+      "url": "https://www.twitch.tv/videos/101104303"
+    },
+    {
+      "description": "Smushis VS Teina",
+      "url": "https://www.twitch.tv/videos/101104437"
+    },
+    {
+      "description": "IceChaos VS Greed",
+      "url": "https://www.twitch.tv/videos/101104647"
+    },
+    {
+      "description": "Kanjo VS Cayoche",
+      "url": "https://www.twitch.tv/videos/101283912"
+    },
+    {
+      "description": "Neness VS MrPopoche",
+      "url": "https://www.twitch.tv/videos/101284259"
+    },
+    {
+      "description": "Vin25cent VS Chfou",
+      "url": "https://www.twitch.tv/videos/101490125"
+    },
+    {
+      "description": "Calimero VS Kokuho",
+      "url": "https://www.twitch.tv/videos/101490307"
+    },
+    {
+      "description": "Bodybrest VS Majingrams",
+      "url": "https://www.twitch.tv/videos/101490456"
+    },
+    {
+      "description": "Noctyan VS Hikarichan",
+      "url": "https://www.twitch.tv/videos/101691067"
+    },
+    {
+      "description": "Molfried VS Tanook",
+      "url": "https://www.twitch.tv/videos/101691334"
+    },
+    {
+      "description": "Khushas VS Venom",
+      "url": "https://www.twitch.tv/videos/101691524"
+    },
+    {
+      "description": "SergeBenamou VS Nariom",
+      "url": "https://www.twitch.tv/videos/102540053"
+    },
+    {
+      "description": "Greed VS Cayoche",
+      "url": "https://www.twitch.tv/videos/102540237"
+    },
+    {
+      "description": "Molfried VS Chfou",
+      "url": "https://www.twitch.tv/videos/102747902"
+    },
+    {
+      "description": "IceChaos VS Kanjo",
+      "url": "https://www.twitch.tv/videos/102748129"
+    },
+    {
+      "description": "Cassebrique VS DarkRaziel",
+      "url": "https://www.twitch.tv/videos/103160430"
+    },
+    {
+      "description": "Nariom VS MrPopoche",
+      "url": "https://www.twitch.tv/videos/103160652"
+    },
+    {
+      "description": "Hyperjaja VS Xemorej",
+      "url": "https://www.twitch.tv/videos/103160829"
+    },
+    {
+      "description": "AeroKanzaki VS Eggs",
+      "url": "https://www.twitch.tv/videos/103160947"
+    },
+    {
+      "description": "Cassebrique VS Noctyan",
+      "url": "https://www.twitch.tv/videos/104002000"
+    },
+    {
+      "description": "Curedents VS Zazima",
+      "url": "https://www.twitch.tv/videos/104002193"
+    },
+    {
+      "description": "Leo_ze_tron VS Massiste",
+      "url": "https://www.twitch.tv/videos/104089962"
+    },
+    {
+      "description": "Xemorej VS Majingrams",
+      "url": "https://www.twitch.tv/videos/104196019"
+    },
+    {
+      "description": "Calimero VS Smushis",
+      "url": "https://www.twitch.tv/videos/104196799"
+    },
+    {
+      "description": "SergeBenamou VS Neness",
+      "url": "https://www.twitch.tv/videos/104410028"
+    },
+    {
+      "description": "Hyperjaja VS Bodybrest",
+      "url": "https://www.twitch.tv/videos/104410142"
+    },
+    {
+      "description": "Khushas VS AeroKanzaki",
+      "url": "https://www.twitch.tv/videos/104410271"
+    },
+    {
+      "description": "DarkRaziel VS Hikarichan",
+      "url": "https://www.twitch.tv/videos/104719972"
+    },
+    {
+      "description": "Cayoche VS Teina (Part 1)",
+      "url": "https://www.twitch.tv/videos/104720045"
+    },
+    {
+      "description": "Cayoche VS Teina (Part 2)",
+      "url": "https://www.twitch.tv/videos/104720098"
+    },
+    {
+      "description": "Venom VS Eggs",
+      "url": "https://www.twitch.tv/videos/104720153"
+    },
+    {
+      "description": "Bodybrest VS Tanook Leduc",
+      "url": "https://www.twitch.tv/videos/105945215"
+    },
+    {
+      "description": "MrPopoche VS Hikarichan",
+      "url": "https://www.twitch.tv/videos/105945339"
+    },
+    {
+      "description": "Greed VS AeroKanzaki",
+      "url": "https://www.twitch.tv/videos/105945485"
+    },
+    {
+      "description": "Molfried VS Cassebrique",
+      "url": "https://www.twitch.tv/videos/106153078"
+    },
+    {
+      "description": "Nariom VS Hyperjaja",
+      "url": "https://www.twitch.tv/videos/106153257"
+    },
+    {
+      "description": "Venom VS IceChaos",
+      "url": "https://www.twitch.tv/videos/106153482"
+    },
+    {
+      "description": "Leo_ze_tron VS Eggs",
+      "url": "https://www.twitch.tv/videos/106827722"
+    },
+    {
+      "description": "Massiste VS Smushis",
+      "url": "https://www.twitch.tv/videos/106828178"
+    },
+    {
+      "description": "Chfou VS Majingrams",
+      "url": "https://www.twitch.tv/videos/106828458"
+    },
+    {
+      "description": "Tanook VS MrPopoche",
+      "url": "https://www.twitch.tv/videos/106828666"
+    },
+    {
+      "description": "Kokuho VS Curedents",
+      "url": "https://www.twitch.tv/videos/106828860"
+    },
+    {
+      "description": "MrTeina VS MrPopoche",
+      "url": "https://www.twitch.tv/videos/107073233"
+    },
+    {
+      "description": "Kokuho VS Greed",
+      "url": "https://www.twitch.tv/videos/107073421"
+    },
+    {
+      "description": "Cassebrique VS Cayoche",
+      "url": "https://www.twitch.tv/videos/107073590"
+    },
+    {
+      "description": "Neness VS Majingrams",
+      "url": "https://www.twitch.tv/videos/107265381"
+    },
+    {
+      "description": "Hyperjaja VS Kokuho",
+      "url": "https://www.twitch.tv/videos/107265552"
+    },
+    {
+      "description": "Leo_ze_tron VS Nariom",
+      "url": "https://www.twitch.tv/videos/107679628"
+    },
+    {
+      "description": "Kokuho VS Neness",
+      "url": "https://www.twitch.tv/videos/108139544"
+    },
+    {
+      "description": "Cayoche VS Kokuho",
+      "url": "https://www.twitch.tv/videos/108139717"
+    },
+    {
+      "description": "Molfried VS IceChaos",
+      "url": "https://www.twitch.tv/videos/108383894"
+    },
+    {
+      "description": "MrPopoche VS IceChaos",
+      "url": "https://www.twitch.tv/videos/108384042"
+    },
+    {
+      "description": "Nariom VS IceChaos",
+      "url": "https://www.twitch.tv/videos/108384278"
+    },
+    {
+      "description": "Cayoche VS IceChaos",
+      "url": "https://www.twitch.tv/videos/108384432"
+    },
+    {
+      "description": "Leo_ze_tron VS Cassebrique",
+      "url": "https://www.twitch.tv/videos/108384563"
+    },
+    {
+      "description": "Cassebrique VS Cayoche",
+      "url": "https://www.twitch.tv/videos/108610644"
+    },
+    {
+      "description": "Leo_ze_tron VS Cayoche",
+      "url": "https://www.twitch.tv/videos/108610784"
+    }
+  ],
   "matchups": [
     {
       "winner": "leo_ze_tron",
