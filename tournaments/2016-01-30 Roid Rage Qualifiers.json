@@ -1,5 +1,6 @@
 {
   "name": "Roid Rage Qualifiers",
+  "challonge_id": "roidragequalifiers",
   "challonge": "http://challonge.com/roidragequalifiers",
   "date": "30-01-2016",
   "notability": "minor",
@@ -11,7 +12,7 @@
     {
       "winner": "Kriwm",
       "loser": "RebornForHoxton",
-      "score": "3-0",	  
+      "score": "3-0",
 	  "description": "Forfeit"
     },
     {
