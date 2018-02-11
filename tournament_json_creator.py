@@ -19,18 +19,19 @@ def main():
                                params={'api_key': api_key, 'include_participants': 1, 'include_matches': 1}).json()
         tourney_data = tourney['tournament']
         date = tourney_data['started_at'].split('T', 1)[0]  # YYYY-MM-DD
-        json_var = json_parser(tourney_data, date)
+        json_var = json_parser(tourney_data, tourney_id, date)
         print(json_var)
         with open('tournaments/' + date + ' ' + ''.join(e for e in tourney_data['name']
                                                         if e.isalnum()) + '.json', 'w') as data_file:
             json.dump(json_var, data_file, indent=2)
 
 
-def json_parser(tournament, date):
+def json_parser(tournament, t_id, date):
     date_array = date.split('-', 2)
     matches = tournament['matches']
     participants = tournament['participants']
     parsed_json = {'name': tournament['name'],
+                   'challonge_id': t_id,
                    'challonge': tournament['full_challonge_url'],
                    'date': date_array[2] + '-' + date_array[1] + '-' + date_array[0],
                    'notability': 'minor',
