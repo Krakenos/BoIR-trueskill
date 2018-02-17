@@ -7,7 +7,16 @@
   "organizer": "xUnhingedMoose",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "day 1",
+      "url": "https://www.twitch.tv/videos/186145272"
+    },
+    {
+      "description": "day 2",
+      "url": "https://www.twitch.tv/videos/186145707"
+    }
+  ],
   "matchups": [
     {
       "winner": "Blumpkin_Idaho",

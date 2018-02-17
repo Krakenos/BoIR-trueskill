@@ -7,7 +7,16 @@
   "organizer": "tyrannasauruslex",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Part 1",
+      "url": "https://www.twitch.tv/videos/125067020"
+    },
+    {
+      "description": "Part 2",
+      "url": "https://www.twitch.tv/videos/125067190"
+    }
+  ],
   "matchups": [
     {
       "winner": "tODDlife",

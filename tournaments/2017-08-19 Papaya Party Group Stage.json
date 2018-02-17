@@ -7,7 +7,20 @@
   "organizer": "antizoubilamaka",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "day 1 part 1",
+      "url": "https://www.twitch.tv/videos/168584779"
+    },
+    {
+      "description": "day 1 part 2",
+      "url": "https://www.twitch.tv/videos/168584937"
+    },
+    {
+      "description": "day 2 part 1 (Noowoo vs Brother Chen match up)",
+      "url": "https://www.twitch.tv/videos/168585057"
+    }
+  ],
   "matchups": [
     {
       "winner": "ReidMercury__",

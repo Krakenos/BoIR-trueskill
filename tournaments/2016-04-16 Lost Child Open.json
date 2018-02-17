@@ -7,7 +7,148 @@
   "organizer": "Xelnas",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Nurelic Vs MagicDiner (part 1)",
+      "url": "https://www.twitch.tv/videos/61540807"
+    },
+    {
+      "description": "Nurelic Vs MagicDiner (part 2)",
+      "url": "https://www.twitch.tv/videos/61540959"
+    },
+    {
+      "description": "OhMyGoth Vs NebularView (Part 1)",
+      "url": "https://www.twitch.tv/videos/61541127"
+    },
+    {
+      "description": "OhMyGoth Vs NebularView (Part 2)",
+      "url": "https://www.twitch.tv/videos/61541348"
+    },
+    {
+      "description": "Ceehe Vs DeeJumbles",
+      "url": "https://www.twitch.tv/videos/61541734"
+    },
+    {
+      "description": "Peppicx Vs Thalen22",
+      "url": "https://www.twitch.tv/videos/61542304"
+    },
+    {
+      "description": "Rydyell Vs JerseyRebox",
+      "url": "https://www.twitch.tv/videos/61542647"
+    },
+    {
+      "description": "Zamiell Vs DKlaww",
+      "url": "https://www.twitch.tv/videos/61543239"
+    },
+    {
+      "description": "BrainTm Vs NegEggs",
+      "url": "https://www.twitch.tv/videos/61543655"
+    },
+    {
+      "description": "Lobsterosity Vs Massiste",
+      "url": "https://www.twitch.tv/videos/61544045"
+    },
+    {
+      "description": "Krakenos Vs Dea1h",
+      "url": "https://www.twitch.tv/videos/61544491"
+    },
+    {
+      "description": "GiraffeFizzoid Vs Crazyeightsfan69",
+      "url": "https://www.twitch.tv/videos/61545155"
+    },
+    {
+      "description": "HauntedQuest Vs SlashSP",
+      "url": "https://www.twitch.tv/videos/61545655"
+    },
+    {
+      "description": "CrafterLynx Vs Fug1t",
+      "url": "https://www.twitch.tv/videos/61546018"
+    },
+    {
+      "description": "YamaYamaDingDong Vs ThisGuyIsBarry",
+      "url": "https://www.twitch.tv/videos/61546407"
+    },
+    {
+      "description": "Massiste2 Vs FireDead659",
+      "url": "https://www.twitch.tv/videos/62721993"
+    },
+    {
+      "description": "Jerseyrebox Vs giraffeFizzoid",
+      "url": "https://www.twitch.tv/videos/62722540"
+    },
+    {
+      "description": "SlashSP Vs Thalen22",
+      "url": "https://www.twitch.tv/videos/62722965"
+    },
+    {
+      "description": "Augo48 Vs Takumashii",
+      "url": "https://www.twitch.tv/videos/62723772"
+    },
+    {
+      "description": "gSrV Vs NeNeSSquick",
+      "url": "https://www.twitch.tv/videos/62724308"
+    },
+    {
+      "description": "Dea1h Vs CrafterLynx",
+      "url": "https://www.twitch.tv/videos/62725216"
+    },
+    {
+      "description": "Fug1t Vs Krakenos",
+      "url": "https://www.twitch.tv/videos/62726178"
+    },
+    {
+      "description": "deejumbles Vs thisguyisbarry",
+      "url": "https://www.twitch.tv/videos/62727086"
+    },
+    {
+      "description": "DKlaww Vs gSrV",
+      "url": "https://www.twitch.tv/videos/62728947"
+    },
+    {
+      "description": "Zamiell Vs NeNeSSquick",
+      "url": "https://www.twitch.tv/videos/62729300"
+    },
+    {
+      "description": "Takumashii vs MagicDiner",
+      "url": "https://www.twitch.tv/videos/62831118"
+    },
+    {
+      "description": "BrainTm Vs NebularView",
+      "url": "https://www.twitch.tv/videos/63903160"
+    },
+    {
+      "description": "Lobsterosity vs AlwaysBoredKb21",
+      "url": "https://www.twitch.tv/videos/64118364"
+    },
+    {
+      "description": "Massiste2 Vs Neg_Eggs",
+      "url": "https://www.twitch.tv/videos/64118866"
+    },
+    {
+      "description": "Dea1h Vs Zamiell",
+      "url": "https://www.twitch.tv/videos/64119326"
+    },
+    {
+      "description": "Giraffizzoid Vs Takumashii",
+      "url": "https://www.twitch.tv/videos/64120195"
+    },
+    {
+      "description": "YamaYamaDingDong Vs Ceehe",
+      "url": "https://www.twitch.tv/videos/64120712"
+    },
+    {
+      "description": "NeNeSSquick Vs Augo48",
+      "url": "https://www.twitch.tv/videos/64121408"
+    },
+    {
+      "description": "JerseyRebox Vs Krakenos",
+      "url": "https://www.twitch.tv/videos/64122036"
+    },
+    {
+      "description": "gSrV Vs MagicDiner",
+      "url": "https://www.twitch.tv/videos/64122587"
+    }
+  ],
   "matchups": [
     {
       "winner": "BrainTM",

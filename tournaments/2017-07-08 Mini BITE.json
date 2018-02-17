@@ -7,7 +7,68 @@
   "organizer": "Shigan_",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Thisguyisbarry VS DJForceps",
+      "url": "https://www.twitch.tv/videos/157999749"
+    },
+    {
+      "description": "Tanook Leduc VS Thereisnofuture",
+      "url": "https://www.twitch.tv/videos/157999887"
+    },
+    {
+      "description": "Leo_ze_tron VS Antizoubilamaka",
+      "url": "https://www.twitch.tv/videos/157999979"
+    },
+    {
+      "description": "Dea1h VS Antizoubilamaka",
+      "url": "https://www.twitch.tv/videos/158000947"
+    },
+    {
+      "description": "Cayoche VS Greed__",
+      "url": "https://www.twitch.tv/videos/158001062"
+    },
+    {
+      "description": "PassionDrama VS CrafterLynx",
+      "url": "https://www.twitch.tv/videos/158001201"
+    },
+    {
+      "description": "Nariom VS ReidMercury__",
+      "url": "https://www.twitch.tv/videos/158001322"
+    },
+    {
+      "description": "Dea1h VS SlashSP",
+      "url": "https://www.twitch.tv/videos/158001435"
+    },
+    {
+      "description": "TheMoonSage VS Zamiell",
+      "url": "https://www.twitch.tv/videos/158001530"
+    },
+    {
+      "description": "Thisguyisbarry VS Thereisnofuture",
+      "url": "https://www.twitch.tv/videos/158001693"
+    },
+    {
+      "description": "Dea1h VS CrafterLynx",
+      "url": "https://www.twitch.tv/videos/158001805"
+    },
+    {
+      "description": "Greed__ VS CrafterLynx",
+      "url": "https://www.twitch.tv/videos/158001902"
+    },
+    {
+      "description": "Antizoubilamaka VS ReidMercury__",
+      "url": "https://www.twitch.tv/videos/158002028"
+    },
+    {
+      "description": "Thereisnofuture VS ReidMercury__",
+      "url": "https://www.twitch.tv/videos/158002185"
+    },
+    {
+      "description": "Thereisnofuture VS CrafterLynx",
+      "url": "https://www.twitch.tv/videos/158002247"
+    }
+  ],
   "matchups": [
     {
       "winner": "thisguyisbarry",

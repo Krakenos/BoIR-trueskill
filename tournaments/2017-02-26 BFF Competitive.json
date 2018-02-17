@@ -7,7 +7,12 @@
   "organizer": "tyrannasauruslex",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Whole bracket",
+      "url": "https://www.twitch.tv/videos/125068697"
+    }
+  ],
   "matchups": [
     {
       "winner": "Cyber_1",

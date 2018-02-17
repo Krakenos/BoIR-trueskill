@@ -7,7 +7,12 @@
   "organizer": "xUnhingedMoose",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "day 2",
+      "url": "https://www.twitch.tv/videos/186145824"
+    }
+  ],
   "matchups": [
     {
       "winner": "antizoubilamaka",

@@ -7,7 +7,12 @@
   "organizer": "Dea1h",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Dea1h vs Zamiell",
+      "url": "https://www.twitch.tv/videos/72149676"
+    }
+  ],
   "matchups": [
     {
       "winner": "Dea1h",

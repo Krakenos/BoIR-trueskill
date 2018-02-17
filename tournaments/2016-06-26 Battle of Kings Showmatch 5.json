@@ -7,7 +7,12 @@
   "organizer": "Dea1h",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "antizoubilamaka vs Cyber_1",
+      "url": "https://www.twitch.tv/videos/74857863"
+    }
+  ],
   "matchups": [
     {
       "winner": "Cyber_1",

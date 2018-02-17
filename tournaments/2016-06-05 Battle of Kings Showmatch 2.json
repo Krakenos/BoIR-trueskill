@@ -7,7 +7,12 @@
   "organizer": "Dea1h",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Cyber_1 vs Zamiell",
+      "url": "https://www.twitch.tv/videos/70782601"
+    }
+  ],
   "matchups": [
     {
       "winner": "Zamiell",

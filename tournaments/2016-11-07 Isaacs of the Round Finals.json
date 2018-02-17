@@ -7,7 +7,28 @@
   "organizer": "xUnhingedMoose",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "day 1",
+      "url": "https://www.twitch.tv/videos/104824918"
+    },
+    {
+      "description": "day 1",
+      "url": "https://www.twitch.tv/videos/104825131"
+    },
+    {
+      "description": "day 1",
+      "url": "https://www.twitch.tv/videos/104825242"
+    },
+    {
+      "description": "day 2",
+      "url": "https://www.twitch.tv/videos/104825377"
+    },
+    {
+      "description": "day 2",
+      "url": "https://www.twitch.tv/videos/104825439"
+    }
+  ],
   "matchups": [
     {
       "winner": "Zamiell",

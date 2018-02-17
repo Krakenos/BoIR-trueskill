@@ -7,7 +7,76 @@
   "organizer": "Zamiell",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "s0cialphobia vs Jminman",
+      "url": "https://www.twitch.tv/videos/46970024"
+    },
+    {
+      "description": "Krakenos vs Scyther159",
+      "url": "https://www.twitch.tv/videos/49227005"
+    },
+    {
+      "description": "ou_j vs tODDlife",
+      "url": "https://www.twitch.tv/videos/47957634"
+    },
+    {
+      "description": "Erbear_ vs ShinyRiolu21",
+      "url": "https://www.twitch.tv/videos/47646970"
+    },
+    {
+      "description": "DKlaww vs PatDog56",
+      "url": "https://www.twitch.tv/videos/47647532"
+    },
+    {
+      "description": "Dea1h vs Antizoubilamaka",
+      "url": "https://www.twitch.tv/videos/47779671"
+    },
+    {
+      "description": "Xelnas vs Staekk",
+      "url": "https://www.twitch.tv/videos/47780434"
+    },
+    {
+      "description": "Zamiell vs Lobsterosity",
+      "url": "https://www.twitch.tv/videos/48450082"
+    },
+    {
+      "description": "Showcase: SlashSP vs ItsScion",
+      "url": "https://www.twitch.tv/videos/48450858"
+    },
+    {
+      "description": "Zamiell vs ItsScion",
+      "url": "https://www.twitch.tv/videos/50886135"
+    },
+    {
+      "description": "SlashSP vs Hyphen_ated",
+      "url": "https://www.twitch.tv/videos/50886412"
+    },
+    {
+      "description": "Antizoubilamaka vs Sillypears",
+      "url": "https://www.twitch.tv/videos/50886546"
+    },
+    {
+      "description": "Dadalo1 vs TheGreatZiggyny",
+      "url": "https://www.twitch.tv/videos/52141965"
+    },
+    {
+      "description": "TyrannasaurusLex vs BMZ_Loop",
+      "url": "https://www.twitch.tv/videos/52142208"
+    },
+    {
+      "description": "Hyphen_ated vs ShinyRiolu21",
+      "url": "https://www.twitch.tv/videos/53366139"
+    },
+    {
+      "description": "NeNessQuick vs Haagiboy88",
+      "url": "https://www.twitch.tv/videos/53366325"
+    },
+    {
+      "description": "Zamiell vs Chronometrics",
+      "url": "https://www.twitch.tv/videos/53366492"
+    }
+  ],
   "matchups": [
     {
       "winner": "antizoubilamaka",

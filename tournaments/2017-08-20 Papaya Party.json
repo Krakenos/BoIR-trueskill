@@ -7,7 +7,20 @@
   "organizer": "antizoubilamaka",
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "day 2 part 1",
+      "url": "https://www.twitch.tv/videos/168585057"
+    },
+    {
+      "description": "day 2 part 1",
+      "url": "https://www.twitch.tv/videos/168585188"
+    },
+    {
+      "description": "day 3",
+      "url": "https://www.twitch.tv/videos/168585357"
+    }
+  ],
   "matchups": [
     {
       "winner": "ReidMercury__",

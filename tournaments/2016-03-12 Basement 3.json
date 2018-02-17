@@ -7,7 +7,20 @@
   "organizer": "SlashSP",
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "day 1",
+      "url": "https://www.twitch.tv/videos/54610962"
+    },
+    {
+      "description": "day 2 part 1",
+      "url": "https://www.twitch.tv/videos/54611184"
+    },
+    {
+      "description": "day 2 part 2",
+      "url": "https://www.twitch.tv/videos/54611587"
+    }
+  ],
   "matchups": [
     {
       "winner": "birdie0",
