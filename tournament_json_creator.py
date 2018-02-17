@@ -22,7 +22,7 @@ def main():
         json_var = json_parser(tourney_data, tourney_id, date)
         print(json_var)
         with open('tournaments/' + date + ' ' + ''.join(e for e in tourney_data['name']
-                                                        if e.isalnum()) + '.json', 'w') as data_file:
+                                                        if e not in '/\\?*"<>|:') + '.json', 'w') as data_file:
             json.dump(json_var, data_file, indent=2)
 
 
