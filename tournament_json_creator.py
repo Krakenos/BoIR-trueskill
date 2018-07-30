@@ -54,7 +54,10 @@ def json_parser(tournament, t_id, date):
         else:
             scores = match_data['scores_csv'].split('-')
             scores.sort(reverse=True)
-            match_score = scores[0] + '-' + scores[1]
+            try:
+                match_score = scores[0] + '-' + scores[1]
+            except IndexError:
+                match_score = '3-0'   # scenario where match is forfeited
             parsed_json['matchups'].append({'winner': match_data['winner_id'],
                                             'loser': match_data['loser_id'],
                                             'score': match_score})
