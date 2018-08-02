@@ -7,7 +7,7 @@
   "organizer": "CobaltStreak",
   "ruleset": "unseeded",
   "description": "A custom ruleset with some removed items, listed below. The Angel Rooms without a pedestal item have been deleted. Donation Machine has been deleted from all the rooms. Guppy’s Collar is removed from the Red Chest pool and the Curse Room pool. The loser's bracket goes into the Dark Room instead of The Chest.",
-  "removed_items": {
+  "removed_items": [
     "Epic Fetus",
     "Ipecac",
     "Mom's Knife",
@@ -18,7 +18,7 @@
     "Emperor card",
     "Chaos card",
     "Ehwaz rune"
-  },
+  ],
   "videos": [],
   "matchups": [
     {
