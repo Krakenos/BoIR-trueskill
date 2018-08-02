@@ -15,6 +15,8 @@ The three leaderboards are as follows:
 
 Note that only players who have played in two or more tournaments will show up on the leaderboards. (This is to prevent inaccurate placings.)
 
+<br />
+
 ## More Information
 
 * The scripts used are written in Python 3.6.1.
