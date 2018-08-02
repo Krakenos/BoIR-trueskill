@@ -13,6 +13,8 @@ The three leaderboards are as follows:
 * [Mixed](https://github.com/Krakenos/BoIR-trueskill/blob/master/leaderboards/mixed_leaderboard.json)
   * This uses matchups from both seeded and unseeded, but seeded matchups are [weighted more](https://github.com/Krakenos/BoIR-trueskill/blob/master/leaderboard_creator.py#L10).
 
+Note that only players who have played in two or more tournaments will show up on the leaderboards. (This is to prevent inaccurate placings.)
+
 ## More Information
 
 * The scripts used are written in Python 3.6.1.
