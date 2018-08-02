@@ -1,6 +1,6 @@
 # The Binding of Isaac: Rebirth Tournament Leaderboards
 
-This is a [historical archive](https://github.com/Krakenos/BoIR-trueskill/tree/master/tournaments) of every *[The Binding of Isaac: Rebirth](http://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)* tournament that has ever been played. (This includes tournaments for the two DLCs, *[The Binding of Isaac: Afterbirth](https://store.steampowered.com/app/401920/The_Binding_of_Isaac_Afterbirth/)* and *[The Binding of Isaac: Afterbirth+](https://store.steampowered.com/app/570660/The_Binding_of_Isaac_Afterbirth/)*.
+This is a [historical archive](https://github.com/Krakenos/BoIR-trueskill/tree/master/tournaments) of every *[The Binding of Isaac: Rebirth](http://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)* tournament that has ever been played. (This includes tournaments for the two DLCs, *[The Binding of Isaac: Afterbirth](https://store.steampowered.com/app/401920/The_Binding_of_Isaac_Afterbirth/)* and *[The Binding of Isaac: Afterbirth+](https://store.steampowered.com/app/570660/The_Binding_of_Isaac_Afterbirth/)*.)
 
 Furthermore, by using the [TrueSkill algorithm](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/NIPS2006_0688.pdf) on every 1v1 matchup, we can create a leaderboard for the top players.
 
