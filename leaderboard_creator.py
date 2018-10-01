@@ -17,8 +17,9 @@ def main():
 
     # Looping through every file in the tournaments folder
     for infile in sorted(glob.glob('tournaments/*.json')):
-        players_in_tourney_1 = []
-        players_in_tourney_2 = []  # 2 variables because 1 tourney counts for 2 leaderboards generally
+        players_in_all_tourneys = []
+        players_in_seeded_tourneys = []  # Variables to keep track of players participation in a tourney
+        players_in_unseeded_tourneys = []
         global current_file
         current_file = infile
         with open(infile) as datafile:
@@ -30,8 +31,8 @@ def main():
             if tournament_data['ruleset'] == 'seeded':
                 check_racer(race, racers)
                 check_racer(race, seeded_racers)
-                increment_tourney_played(race, racers, players_in_tourney_1)
-                increment_tourney_played(race, seeded_racers, players_in_tourney_2)
+                increment_tourney_played(race, racers, players_in_all_tourneys)
+                increment_tourney_played(race, seeded_racers, players_in_seeded_tourneys)
                 increment_match_played(race, racers)
                 increment_match_played(race, seeded_racers)
                 if debug:
@@ -48,8 +49,8 @@ def main():
             elif tournament_data['ruleset'] == 'mixed':
                 check_racer(race, racers)
                 check_racer(race, unseeded_racers)
-                increment_tourney_played(race, racers, players_in_tourney_1)
-                increment_tourney_played(race, unseeded_racers, players_in_tourney_2)
+                increment_tourney_played(race, racers, players_in_all_tourneys)
+                increment_tourney_played(race, unseeded_racers, players_in_unseeded_tourneys)
                 increment_match_played(race, racers)
                 increment_match_played(race, unseeded_racers)
                 if debug:
@@ -61,13 +62,48 @@ def main():
                         calculate_mmr(race, racers)
                     calculate_mmr(race, unseeded_racers)
 
+            elif tournament_data['ruleset'] == 'multiple':
+                if debug:
+                    print('multiple')
+                if race['ruleset'] == 'seeded':
+                    check_racer(race, racers)
+                    check_racer(race, seeded_racers)
+                    increment_tourney_played(race, racers, players_in_all_tourneys)
+                    increment_tourney_played(race, seeded_racers, players_in_seeded_tourneys)
+                    increment_match_played(race, racers)
+                    increment_match_played(race, seeded_racers)
+                    for i in range(seeded_multiplier):
+                        if calculate_per_round is True:
+                            mmr_per_round(race, racers, False)
+                        else:
+                            calculate_mmr(race, racers)
+                    if calculate_per_round is True:
+                        mmr_per_round(race, seeded_racers, False)
+                    else:
+                        calculate_mmr(race, seeded_racers)
+                else:
+                    check_racer(race, racers)
+                    check_racer(race, unseeded_racers)
+                    increment_tourney_played(race, racers, players_in_all_tourneys)
+                    increment_tourney_played(race, unseeded_racers, players_in_unseeded_tourneys)
+                    increment_match_played(race, racers)
+                    increment_match_played(race, unseeded_racers)
+                    if debug:
+                        print('unseeded')
+                    if calculate_per_round is True:
+                        mmr_per_round(race, racers, False)
+                        mmr_per_round(race, unseeded_racers, False)
+                    else:
+                        calculate_mmr(race, racers)
+                        calculate_mmr(race, unseeded_racers)
+
             elif tournament_data['ruleset'] == 'other':
                 continue
             else:
                 check_racer(race, racers)
                 check_racer(race, unseeded_racers)
-                increment_tourney_played(race, racers, players_in_tourney_1)
-                increment_tourney_played(race, unseeded_racers, players_in_tourney_2)
+                increment_tourney_played(race, racers, players_in_all_tourneys)
+                increment_tourney_played(race, unseeded_racers, players_in_unseeded_tourneys)
                 increment_match_played(race, racers)
                 increment_match_played(race, unseeded_racers)
                 if debug:
