@@ -2,11 +2,11 @@
   "name": "Balls of Steel 4",
   "challonge_id": "bos4",
   "challonge": "http://challonge.com/bos4",
-  "date": "30-05-2015",
+  "date": "2015-05-30",
   "notability": "major",
   "organizer": "CobaltStreak",
   "ruleset": "unseeded",
-  "description": "A custom ruleset with some removed items, listed below. The Angel Rooms without a pedestal item have been deleted. Donation Machine has been deleted from all the rooms. Guppy’s Collar is removed from the Red Chest pool and the Curse Room pool. The loser's bracket goes into the Dark Room instead of The Chest.",
+  "description": "A custom ruleset with some removed items, listed below. The Angel Rooms without a pedestal item have been deleted. Donation Machine has been deleted from all the rooms. Guppy's Collar is removed from the Red Chest pool and the Curse Room pool. The loser's bracket goes into the Dark Room instead of The Chest.",
   "removed_items": [
     "Epic Fetus",
     "Ipecac",

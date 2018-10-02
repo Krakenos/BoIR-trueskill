@@ -2,23 +2,23 @@
   "name": "The Binding of Isaac Racing+ Tournament",
   "challonge_id": "tboi-2017",
   "challonge": "http://tboi.challonge.com/2017",
-  "date": "31-10-2017",
+  "date": "2017-10-31",
   "notability": "minor",
   "organizer": "Speedgaming/Xelnas",
   "ruleset": "seeded",
   "description": "",
   "videos": [
-	{
-		"description": "YouTube playlist with all the match ups",
-		"url": "https://www.youtube.com/watch?v=7Wz07KTK-T8&list=PLdoWICJMgPKWruYCymh2bRMI5tGzcIlSo"
-	}
+    {
+      "description": "YouTube playlist with all the match ups",
+      "url": "https://www.youtube.com/watch?v=7Wz07KTK-T8&list=PLdoWICJMgPKWruYCymh2bRMI5tGzcIlSo"
+    }
   ],
   "matchups": [
     {
       "winner": "MrElegante",
       "loser": "VicThor21",
       "score": "2-0",
-	  "description": "Forfeit"
+      "description": "Forfeit"
     },
     {
       "winner": "missingyes",
@@ -29,7 +29,7 @@
       "winner": "Zamiell",
       "loser": "MrElegante",
       "score": "2-0",
-	  "description": "Forfeit"
+      "description": "Forfeit"
     },
     {
       "winner": "ceehe",
@@ -105,7 +105,7 @@
       "winner": "Nariom",
       "loser": "VicThor21",
       "score": "3-0",
-	  "description": "Forfeit?"
+      "description": "Forfeit?"
     },
     {
       "winner": "dunham",
@@ -146,7 +146,7 @@
       "winner": "Dea1h",
       "loser": "dunham",
       "score": "3-0",
-	  "description": "Forfeit?"
+      "description": "Forfeit?"
     },
     {
       "winner": "910dan",
@@ -172,7 +172,7 @@
       "winner": "Dea1h",
       "loser": "CrafterLynx",
       "score": "3-0",
-	  "description": "Forfeit?"
+      "description": "Forfeit?"
     },
     {
       "winner": "Dea1h",

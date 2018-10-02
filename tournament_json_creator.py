@@ -27,13 +27,12 @@ def main():
 
 
 def json_parser(tournament, t_id, date):
-    date_array = date.split('-', 2)
     matches = tournament['matches']
     participants = tournament['participants']
     parsed_json = {'name': tournament['name'],
                    'challonge_id': t_id,
                    'challonge': tournament['full_challonge_url'],
-                   'date': date_array[2] + '-' + date_array[1] + '-' + date_array[0],
+                   'date': date,
                    'notability': 'minor',
                    'organizer': '',
                    'ruleset': '',
