@@ -34,7 +34,7 @@ def json_parser(tournament, t_id, date):
                    'challonge': tournament['full_challonge_url'],
                    'date': date,
                    'notability': 'minor',
-                   'organizer': '',
+                   'organizer': [],
                    'ruleset': '',
                    'description': '',
                    'videos': [],
