@@ -1,0 +1,3 @@
+[submodule "tournaments"]
+	path = tournaments
+	url = https://github.com/Krakenos/BoIR-tournament-history
