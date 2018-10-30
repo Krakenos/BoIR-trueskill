@@ -1,0 +1,23 @@
+{
+  "name": "Isaac Bingo",
+  "challonge_id": "",
+  "challonge": "",
+  "date": "2016-12-17",
+  "notability": "minor",
+  "organizer": ["deejumbles", "cranderveldt"],
+  "ruleset": "other",
+  "description": "",
+  "videos": [
+    {
+      "description": "SlashSP and Zamiell vs Krakenos and Thalen22",
+      "url": "https://www.twitch.tv/videos/108398650"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "SlashSP and Zamiell",
+      "loser": "Krakenos and Thalen22",
+      "score": "1-0"
+    }
+  ]
+}
