@@ -63,31 +63,22 @@
     "place": 7
   },
   {
-    "name": "Zamiell",
-    "tournaments_played": 24,
-    "matches_played": 95,
-    "exposure": 28.875555525685364,
-    "mu": 31.91178629120245,
-    "sigma": 1.012076921839029,
-    "place": 8
-  },
-  {
     "name": "BrainTM",
     "tournaments_played": 14,
     "matches_played": 43,
     "exposure": 28.824147061028825,
     "mu": 33.17115053793415,
     "sigma": 1.4490011589684424,
-    "place": 9
+    "place": 8
   },
   {
-    "name": "CrafterLynx",
-    "tournaments_played": 15,
-    "matches_played": 55,
-    "exposure": 28.419977714960183,
-    "mu": 32.04569807557654,
-    "sigma": 1.2085734535387849,
-    "place": 10
+    "name": "Zamiell",
+    "tournaments_played": 24,
+    "matches_played": 95,
+    "exposure": 28.64233059024205,
+    "mu": 31.658985167162154,
+    "sigma": 1.0055515256400347,
+    "place": 9
   },
   {
     "name": "ReidMercury__",
@@ -96,7 +87,7 @@
     "exposure": 28.343579822710012,
     "mu": 34.346603219958475,
     "sigma": 2.001007799082821,
-    "place": 11
+    "place": 10
   },
   {
     "name": "SlashSP",
@@ -105,7 +96,7 @@
     "exposure": 28.341605339695292,
     "mu": 31.775694584734726,
     "sigma": 1.1446964150131451,
-    "place": 12
+    "place": 11
   },
   {
     "name": "Blumpkin_Idaho",
@@ -114,6 +105,15 @@
     "exposure": 28.255571031600372,
     "mu": 33.401650414400365,
     "sigma": 1.7153597942666645,
+    "place": 12
+  },
+  {
+    "name": "CrafterLynx",
+    "tournaments_played": 15,
+    "matches_played": 55,
+    "exposure": 28.24002752712758,
+    "mu": 31.880763627588248,
+    "sigma": 1.2135787001535558,
     "place": 13
   },
   {
@@ -255,9 +255,9 @@
     "name": "thereisnofuture",
     "tournaments_played": 11,
     "matches_played": 37,
-    "exposure": 24.9228414104181,
-    "mu": 29.421265654048128,
-    "sigma": 1.499474747876675,
+    "exposure": 24.914397129284833,
+    "mu": 29.41343058610882,
+    "sigma": 1.4996778189413293,
     "place": 29
   },
   {
@@ -666,22 +666,13 @@
     "place": 74
   },
   {
-    "name": "TheMoonSage",
-    "tournaments_played": 13,
-    "matches_played": 42,
-    "exposure": 16.760212238973708,
-    "mu": 21.341354217099983,
-    "sigma": 1.5270473260420918,
-    "place": 75
-  },
-  {
     "name": "deejumbles",
     "tournaments_played": 5,
     "matches_played": 16,
     "exposure": 16.755335415942508,
     "mu": 23.770003897129786,
     "sigma": 2.338222827062426,
-    "place": 76
+    "place": 75
   },
   {
     "name": "Malungo9k",
@@ -690,7 +681,7 @@
     "exposure": 16.64750161023166,
     "mu": 25.546593698410796,
     "sigma": 2.966364029393045,
-    "place": 77
+    "place": 76
   },
   {
     "name": "AshD0wn",
@@ -699,7 +690,7 @@
     "exposure": 16.627003497487124,
     "mu": 24.632327675771567,
     "sigma": 2.6684413927614816,
-    "place": 78
+    "place": 77
   },
   {
     "name": "Lobsterosity",
@@ -708,6 +699,15 @@
     "exposure": 16.596772589583036,
     "mu": 22.46301848027768,
     "sigma": 1.9554152968982146,
+    "place": 78
+  },
+  {
+    "name": "TheMoonSage",
+    "tournaments_played": 13,
+    "matches_played": 42,
+    "exposure": 16.5632089400086,
+    "mu": 21.081460728474653,
+    "sigma": 1.5060839294886845,
     "place": 79
   },
   {
@@ -810,13 +810,22 @@
     "place": 90
   },
   {
+    "name": "mgln",
+    "tournaments_played": 4,
+    "matches_played": 19,
+    "exposure": 15.45478053221761,
+    "mu": 22.066135475783504,
+    "sigma": 2.2037849811886314,
+    "place": 91
+  },
+  {
     "name": "s0cialphobia",
     "tournaments_played": 3,
     "matches_played": 9,
     "exposure": 14.91782556267269,
     "mu": 25.35371439228195,
     "sigma": 3.4786296098697536,
-    "place": 91
+    "place": 92
   },
   {
     "name": "Atozmos",
@@ -825,7 +834,7 @@
     "exposure": 14.846442306856511,
     "mu": 21.577188040729848,
     "sigma": 2.243581911291112,
-    "place": 92
+    "place": 93
   },
   {
     "name": "TheFullCrumb",
@@ -834,7 +843,7 @@
     "exposure": 14.64145222730194,
     "mu": 27.055230042327292,
     "sigma": 4.137925938341784,
-    "place": 93
+    "place": 94
   },
   {
     "name": "ShinyRiolu21",
@@ -843,7 +852,7 @@
     "exposure": 14.629864405896509,
     "mu": 24.55743263538741,
     "sigma": 3.3091894098303003,
-    "place": 94
+    "place": 95
   },
   {
     "name": "Massiste2",
@@ -852,7 +861,7 @@
     "exposure": 14.569137389118229,
     "mu": 24.884884533658802,
     "sigma": 3.438582381513524,
-    "place": 95
+    "place": 96
   },
   {
     "name": "Chronometrics",
@@ -861,7 +870,7 @@
     "exposure": 14.560928171194961,
     "mu": 22.863562557242865,
     "sigma": 2.7675447953493015,
-    "place": 96
+    "place": 97
   },
   {
     "name": "Neg_Eggs",
@@ -870,7 +879,7 @@
     "exposure": 14.244309773378397,
     "mu": 25.508406221856784,
     "sigma": 3.7546988161594625,
-    "place": 97
+    "place": 98
   },
   {
     "name": "Erbear_",
@@ -879,7 +888,7 @@
     "exposure": 14.178778041174692,
     "mu": 20.828942095627752,
     "sigma": 2.2167213514843533,
-    "place": 98
+    "place": 99
   },
   {
     "name": "Smoomy",
@@ -888,7 +897,7 @@
     "exposure": 14.11816000805987,
     "mu": 24.5160951873966,
     "sigma": 3.465978393112244,
-    "place": 99
+    "place": 100
   },
   {
     "name": "EladDifficult",
@@ -897,7 +906,7 @@
     "exposure": 13.993510015683082,
     "mu": 21.754395377513628,
     "sigma": 2.5869617872768487,
-    "place": 100
+    "place": 101
   },
   {
     "name": "Peppicx",
@@ -906,7 +915,7 @@
     "exposure": 13.481357928155255,
     "mu": 19.927325036410437,
     "sigma": 2.1486557027517272,
-    "place": 101
+    "place": 102
   },
   {
     "name": "PK_Antifreeze",
@@ -915,7 +924,7 @@
     "exposure": 13.398797874225153,
     "mu": 26.84200496121318,
     "sigma": 4.48106902899601,
-    "place": 102
+    "place": 103
   },
   {
     "name": "A_ron_",
@@ -924,7 +933,7 @@
     "exposure": 12.417337220287115,
     "mu": 19.13090737022075,
     "sigma": 2.2378567166445453,
-    "place": 103
+    "place": 104
   },
   {
     "name": "Curedents",
@@ -933,7 +942,7 @@
     "exposure": 12.416807942773305,
     "mu": 23.29089093763119,
     "sigma": 3.624694331619295,
-    "place": 104
+    "place": 105
   },
   {
     "name": "Sir_Munch",
@@ -942,7 +951,7 @@
     "exposure": 11.667391740437473,
     "mu": 26.55390903655621,
     "sigma": 4.962172432039579,
-    "place": 105
+    "place": 106
   },
   {
     "name": "Venom",
@@ -951,15 +960,6 @@
     "exposure": 11.466968536786927,
     "mu": 22.79605619572724,
     "sigma": 3.7763625529801037,
-    "place": 106
-  },
-  {
-    "name": "mgln",
-    "tournaments_played": 3,
-    "matches_played": 16,
-    "exposure": 11.46222709075741,
-    "mu": 19.024032044982945,
-    "sigma": 2.5206016514085117,
     "place": 107
   },
   {
